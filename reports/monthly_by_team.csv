@@ -1,0 +1,251 @@
+month,team_basis,team,refund_ticket_count,refund_total_inr
+2025-01,first_assigned_team,Billing,15,35955.00
+2025-01,first_assigned_team,Chat Frontline,10,26242.00
+2025-01,first_assigned_team,Email Frontline,6,9687.00
+2025-01,first_assigned_team,Escalations & Warranty,3,3687.00
+2025-01,first_assigned_team,Logistics,7,14612.00
+2025-01,first_assigned_team,Returns Desk,16,41867.00
+2025-01,first_assigned_team,Voice Frontline,1,8998.00
+2025-01,resolver_roster,Billing,14,30556.00
+2025-01,resolver_roster,Chat Frontline,12,30040.00
+2025-01,resolver_roster,Email Frontline,7,14886.00
+2025-01,resolver_roster,Escalations & Warranty,3,3687.00
+2025-01,resolver_roster,Logistics,7,14412.00
+2025-01,resolver_roster,Returns Desk,14,38469.00
+2025-01,resolver_roster,Voice Frontline,1,8998.00
+2025-02,first_assigned_team,Billing,16,46494.00
+2025-02,first_assigned_team,Chat Frontline,7,20513.00
+2025-02,first_assigned_team,Email Frontline,5,13492.00
+2025-02,first_assigned_team,Escalations & Warranty,2,7498.00
+2025-02,first_assigned_team,Logistics,14,46267.00
+2025-02,first_assigned_team,Returns Desk,15,32956.00
+2025-02,first_assigned_team,Voice Frontline,4,10718.00
+2025-02,resolver_roster,Billing,16,46494.00
+2025-02,resolver_roster,Chat Frontline,6,22533.00
+2025-02,resolver_roster,Email Frontline,6,15702.00
+2025-02,resolver_roster,Escalations & Warranty,3,9117.00
+2025-02,resolver_roster,Logistics,14,46267.00
+2025-02,resolver_roster,Returns Desk,14,27107.00
+2025-02,resolver_roster,Voice Frontline,4,10718.00
+2025-03,first_assigned_team,Billing,29,87112.00
+2025-03,first_assigned_team,Chat Frontline,13,42806.00
+2025-03,first_assigned_team,Email Frontline,7,27193.00
+2025-03,first_assigned_team,Logistics,9,38835.00
+2025-03,first_assigned_team,Returns Desk,29,80525.00
+2025-03,first_assigned_team,Voice Frontline,4,14126.00
+2025-03,resolver_roster,Billing,29,90861.00
+2025-03,resolver_roster,Chat Frontline,12,40657.00
+2025-03,resolver_roster,Email Frontline,10,32466.00
+2025-03,resolver_roster,Logistics,7,32087.00
+2025-03,resolver_roster,Returns Desk,29,80400.00
+2025-03,resolver_roster,Voice Frontline,4,14126.00
+2025-04,first_assigned_team,Billing,22,76494.00
+2025-04,first_assigned_team,Chat Frontline,9,31092.00
+2025-04,first_assigned_team,Email Frontline,9,20082.00
+2025-04,first_assigned_team,Escalations & Warranty,3,12422.00
+2025-04,first_assigned_team,Logistics,10,28896.00
+2025-04,first_assigned_team,Returns Desk,23,64657.00
+2025-04,first_assigned_team,Voice Frontline,3,16446.00
+2025-04,resolver_roster,Billing,20,69495.00
+2025-04,resolver_roster,Chat Frontline,10,27892.00
+2025-04,resolver_roster,Email Frontline,10,26781.00
+2025-04,resolver_roster,Escalations & Warranty,2,10723.00
+2025-04,resolver_roster,Logistics,10,28896.00
+2025-04,resolver_roster,Returns Desk,24,69856.00
+2025-04,resolver_roster,Voice Frontline,3,16446.00
+2025-05,first_assigned_team,Billing,23,59875.00
+2025-05,first_assigned_team,Chat Frontline,12,27602.00
+2025-05,first_assigned_team,Email Frontline,3,7768.00
+2025-05,first_assigned_team,Escalations & Warranty,2,3199.00
+2025-05,first_assigned_team,Logistics,13,35809.00
+2025-05,first_assigned_team,Returns Desk,24,59187.00
+2025-05,first_assigned_team,Voice Frontline,9,24024.00
+2025-05,resolver_roster,Billing,24,66874.00
+2025-05,resolver_roster,Chat Frontline,12,27342.00
+2025-05,resolver_roster,Email Frontline,5,13114.00
+2025-05,resolver_roster,Escalations & Warranty,2,3199.00
+2025-05,resolver_roster,Logistics,13,35809.00
+2025-05,resolver_roster,Returns Desk,22,54101.00
+2025-05,resolver_roster,Voice Frontline,8,17025.00
+2025-06,first_assigned_team,Billing,22,67131.00
+2025-06,first_assigned_team,Chat Frontline,14,28211.00
+2025-06,first_assigned_team,Email Frontline,10,40928.00
+2025-06,first_assigned_team,Escalations & Warranty,3,7797.00
+2025-06,first_assigned_team,Logistics,12,41364.00
+2025-06,first_assigned_team,Returns Desk,24,71409.00
+2025-06,first_assigned_team,Voice Frontline,3,3029.00
+2025-06,resolver_roster,Billing,21,59007.00
+2025-06,resolver_roster,Chat Frontline,16,47646.00
+2025-06,resolver_roster,Email Frontline,8,25605.00
+2025-06,resolver_roster,Escalations & Warranty,3,7797.00
+2025-06,resolver_roster,Logistics,13,41701.00
+2025-06,resolver_roster,Returns Desk,25,76613.00
+2025-06,resolver_roster,Voice Frontline,2,1500.00
+2025-07,first_assigned_team,Billing,34,92771.00
+2025-07,first_assigned_team,Chat Frontline,23,71765.00
+2025-07,first_assigned_team,Email Frontline,7,16071.00
+2025-07,first_assigned_team,Escalations & Warranty,4,21521.00
+2025-07,first_assigned_team,Logistics,26,94390.00
+2025-07,first_assigned_team,Returns Desk,20,51197.00
+2025-07,first_assigned_team,Voice Frontline,5,9271.00
+2025-07,resolver_roster,Billing,32,87022.00
+2025-07,resolver_roster,Chat Frontline,24,64663.00
+2025-07,resolver_roster,Email Frontline,8,23349.00
+2025-07,resolver_roster,Escalations & Warranty,4,21521.00
+2025-07,resolver_roster,Logistics,26,100093.00
+2025-07,resolver_roster,Returns Desk,20,51067.00
+2025-07,resolver_roster,Voice Frontline,5,9271.00
+2025-08,first_assigned_team,Billing,28,65798.00
+2025-08,first_assigned_team,Chat Frontline,17,53984.00
+2025-08,first_assigned_team,Email Frontline,7,18726.00
+2025-08,first_assigned_team,Escalations & Warranty,7,29193.00
+2025-08,first_assigned_team,Logistics,19,68740.00
+2025-08,first_assigned_team,Returns Desk,43,119909.00
+2025-08,first_assigned_team,Voice Frontline,4,11471.00
+2025-08,resolver_roster,Billing,30,66718.00
+2025-08,resolver_roster,Chat Frontline,17,54539.00
+2025-08,resolver_roster,Email Frontline,9,24044.00
+2025-08,resolver_roster,Escalations & Warranty,7,29193.00
+2025-08,resolver_roster,Logistics,19,68740.00
+2025-08,resolver_roster,Returns Desk,39,113116.00
+2025-08,resolver_roster,Voice Frontline,4,11471.00
+2025-09,first_assigned_team,Billing,41,107528.00
+2025-09,first_assigned_team,Chat Frontline,25,66962.00
+2025-09,first_assigned_team,Email Frontline,14,34413.00
+2025-09,first_assigned_team,Escalations & Warranty,7,30832.00
+2025-09,first_assigned_team,Logistics,22,69980.00
+2025-09,first_assigned_team,Returns Desk,41,134144.00
+2025-09,first_assigned_team,Voice Frontline,11,38425.00
+2025-09,resolver_roster,Billing,39,100330.00
+2025-09,resolver_roster,Chat Frontline,26,67471.00
+2025-09,resolver_roster,Email Frontline,15,37977.00
+2025-09,resolver_roster,Escalations & Warranty,8,34331.00
+2025-09,resolver_roster,Logistics,23,79978.00
+2025-09,resolver_roster,Returns Desk,41,131745.00
+2025-09,resolver_roster,Voice Frontline,9,30452.00
+2025-10,first_assigned_team,Billing,59,147526.00
+2025-10,first_assigned_team,Chat Frontline,29,103367.00
+2025-10,first_assigned_team,Email Frontline,17,51807.00
+2025-10,first_assigned_team,Escalations & Warranty,5,21396.00
+2025-10,first_assigned_team,Logistics,25,70010.00
+2025-10,first_assigned_team,Returns Desk,42,135621.00
+2025-10,first_assigned_team,Voice Frontline,8,45910.00
+2025-10,resolver_roster,Billing,60,160776.00
+2025-10,resolver_roster,Chat Frontline,32,112761.00
+2025-10,resolver_roster,Email Frontline,20,56481.00
+2025-10,resolver_roster,Escalations & Warranty,6,28395.00
+2025-10,resolver_roster,Logistics,21,56788.00
+2025-10,resolver_roster,Returns Desk,40,126024.00
+2025-10,resolver_roster,Voice Frontline,6,34412.00
+2025-11,first_assigned_team,Billing,47,139847.00
+2025-11,first_assigned_team,Chat Frontline,23,86242.00
+2025-11,first_assigned_team,Email Frontline,15,54802.00
+2025-11,first_assigned_team,Escalations & Warranty,9,27073.00
+2025-11,first_assigned_team,Logistics,33,104611.00
+2025-11,first_assigned_team,Returns Desk,53,149905.00
+2025-11,first_assigned_team,Voice Frontline,6,13504.00
+2025-11,resolver_roster,Billing,47,139847.00
+2025-11,resolver_roster,Chat Frontline,23,88192.00
+2025-11,resolver_roster,Email Frontline,14,46678.00
+2025-11,resolver_roster,Escalations & Warranty,9,31948.00
+2025-11,resolver_roster,Logistics,35,112409.00
+2025-11,resolver_roster,Returns Desk,52,143406.00
+2025-11,resolver_roster,Voice Frontline,6,13504.00
+2025-12,first_assigned_team,Billing,44,124139.00
+2025-12,first_assigned_team,Chat Frontline,26,83320.00
+2025-12,first_assigned_team,Email Frontline,17,54407.00
+2025-12,first_assigned_team,Escalations & Warranty,1,3499.00
+2025-12,first_assigned_team,Logistics,22,55983.00
+2025-12,first_assigned_team,Returns Desk,49,121013.00
+2025-12,first_assigned_team,Voice Frontline,12,33593.00
+2025-12,resolver_roster,Billing,43,119281.00
+2025-12,resolver_roster,Chat Frontline,28,94733.00
+2025-12,resolver_roster,Email Frontline,17,51133.00
+2025-12,resolver_roster,Escalations & Warranty,2,3998.00
+2025-12,resolver_roster,Logistics,25,64955.00
+2025-12,resolver_roster,Returns Desk,45,114560.00
+2025-12,resolver_roster,Voice Frontline,11,27294.00
+2026-01,first_assigned_team,Billing,39,112594.00
+2026-01,first_assigned_team,Chat Frontline,30,79189.00
+2026-01,first_assigned_team,Email Frontline,19,58018.00
+2026-01,first_assigned_team,Escalations & Warranty,5,12126.00
+2026-01,first_assigned_team,Logistics,18,53288.00
+2026-01,first_assigned_team,Returns Desk,35,111859.00
+2026-01,first_assigned_team,Voice Frontline,7,22794.00
+2026-01,resolver_roster,Billing,39,112594.00
+2026-01,resolver_roster,Chat Frontline,34,98110.00
+2026-01,resolver_roster,Email Frontline,15,33117.00
+2026-01,resolver_roster,Escalations & Warranty,5,12126.00
+2026-01,resolver_roster,Logistics,19,65886.00
+2026-01,resolver_roster,Returns Desk,35,106940.00
+2026-01,resolver_roster,Voice Frontline,6,21095.00
+2026-02,first_assigned_team,Billing,40,100925.00
+2026-02,first_assigned_team,Chat Frontline,16,37985.00
+2026-02,first_assigned_team,Email Frontline,12,36699.00
+2026-02,first_assigned_team,Escalations & Warranty,4,15166.00
+2026-02,first_assigned_team,Logistics,19,53164.00
+2026-02,first_assigned_team,Returns Desk,43,117330.00
+2026-02,first_assigned_team,Voice Frontline,5,11528.00
+2026-02,resolver_roster,Billing,38,99956.00
+2026-02,resolver_roster,Chat Frontline,15,33637.00
+2026-02,resolver_roster,Email Frontline,14,43577.00
+2026-02,resolver_roster,Escalations & Warranty,4,15166.00
+2026-02,resolver_roster,Logistics,20,51603.00
+2026-02,resolver_roster,Returns Desk,43,117330.00
+2026-02,resolver_roster,Voice Frontline,5,11528.00
+2026-03,first_assigned_team,Billing,36,86096.00
+2026-03,first_assigned_team,Chat Frontline,30,82745.00
+2026-03,first_assigned_team,Email Frontline,17,26741.00
+2026-03,first_assigned_team,Escalations & Warranty,6,31967.00
+2026-03,first_assigned_team,Logistics,28,90696.00
+2026-03,first_assigned_team,Returns Desk,40,104124.00
+2026-03,first_assigned_team,Voice Frontline,6,13404.00
+2026-03,resolver_roster,Billing,35,88490.00
+2026-03,resolver_roster,Chat Frontline,33,87069.00
+2026-03,resolver_roster,Email Frontline,18,26492.00
+2026-03,resolver_roster,Escalations & Warranty,7,33496.00
+2026-03,resolver_roster,Logistics,30,94300.00
+2026-03,resolver_roster,Returns Desk,35,94771.00
+2026-03,resolver_roster,Voice Frontline,5,11155.00
+2026-04,first_assigned_team,Billing,35,80570.00
+2026-04,first_assigned_team,Chat Frontline,21,59163.00
+2026-04,first_assigned_team,Email Frontline,12,37829.00
+2026-04,first_assigned_team,Escalations & Warranty,4,7897.00
+2026-04,first_assigned_team,Logistics,23,75425.00
+2026-04,first_assigned_team,Returns Desk,51,124212.00
+2026-04,first_assigned_team,Voice Frontline,8,17169.00
+2026-04,resolver_roster,Billing,34,78288.00
+2026-04,resolver_roster,Chat Frontline,21,58252.00
+2026-04,resolver_roster,Email Frontline,11,30314.00
+2026-04,resolver_roster,Escalations & Warranty,5,8272.00
+2026-04,resolver_roster,Logistics,24,67987.00
+2026-04,resolver_roster,Returns Desk,52,142358.00
+2026-04,resolver_roster,Voice Frontline,7,16794.00
+2026-05,first_assigned_team,Billing,34,77203.00
+2026-05,first_assigned_team,Chat Frontline,27,105556.00
+2026-05,first_assigned_team,Email Frontline,8,16057.00
+2026-05,first_assigned_team,Escalations & Warranty,6,22792.00
+2026-05,first_assigned_team,Logistics,21,69310.00
+2026-05,first_assigned_team,Returns Desk,47,112740.00
+2026-05,first_assigned_team,Voice Frontline,6,23079.00
+2026-05,resolver_roster,Billing,34,77778.00
+2026-05,resolver_roster,Chat Frontline,26,97206.00
+2026-05,resolver_roster,Email Frontline,11,27844.00
+2026-05,resolver_roster,Escalations & Warranty,7,24761.00
+2026-05,resolver_roster,Logistics,22,71972.00
+2026-05,resolver_roster,Returns Desk,44,105266.00
+2026-05,resolver_roster,Voice Frontline,5,21910.00
+2026-06,first_assigned_team,Billing,40,93282.00
+2026-06,first_assigned_team,Chat Frontline,30,86423.00
+2026-06,first_assigned_team,Email Frontline,19,51840.00
+2026-06,first_assigned_team,Escalations & Warranty,4,19296.00
+2026-06,first_assigned_team,Logistics,28,75699.00
+2026-06,first_assigned_team,Returns Desk,38,99537.00
+2026-06,first_assigned_team,Voice Frontline,11,24744.00
+2026-06,resolver_roster,Billing,37,85610.00
+2026-06,resolver_roster,Chat Frontline,40,112596.00
+2026-06,resolver_roster,Email Frontline,15,34756.00
+2026-06,resolver_roster,Escalations & Warranty,5,21005.00
+2026-06,resolver_roster,Logistics,28,77866.00
+2026-06,resolver_roster,Returns Desk,38,99537.00
+2026-06,resolver_roster,Voice Frontline,7,19451.00

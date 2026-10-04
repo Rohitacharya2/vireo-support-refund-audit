@@ -1,0 +1,1150 @@
+month,agent_id,agent_name,resolver_team,reason_code,refund_ticket_count,refund_total_inr
+2025-01,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,1799.00
+2025-01,A3003,Komal Singh,Chat Frontline,WTY-BUYBACK,1,2499.00
+2025-01,A3005,Payal Bhatia,Chat Frontline,CANCEL,1,240.00
+2025-01,A3005,Payal Bhatia,Chat Frontline,DUP-PAYMENT,1,1250.00
+2025-01,A3006,Varun Bhatt,Chat Frontline,DOA-REPL,1,4249.00
+2025-01,A3007,Abhishek Gupta,Chat Frontline,GW-OTHER,1,2499.00
+2025-01,A3008,Meera Malhotra,Chat Frontline,CANCEL,1,6649.00
+2025-01,A3009,Sukhwinder Singh,Chat Frontline,CANCEL,1,2124.00
+2025-01,A3010,Tenzin Mathew,Chat Frontline,CANCEL,2,8173.00
+2025-01,A3013,Rohit Nair,Chat Frontline,CANCEL,1,270.00
+2025-01,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,1,288.00
+2025-01,A3018,Krishna Bhatt,Email Frontline,DOA-REPL,1,1299.00
+2025-01,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,1,200.00
+2025-01,A3018,Krishna Bhatt,Email Frontline,WTY-BUYBACK,1,342.00
+2025-01,A3019,Kavya Agarwal,Email Frontline,GW-OTHER,1,4248.00
+2025-01,A3020,Aadhya Singh,Email Frontline,DUP-PAYMENT,1,5399.00
+2025-01,A3022,Daniel Arora,Email Frontline,GW-OTHER,2,3398.00
+2025-01,A3023,Ritika Gaikwad,Voice Frontline,GW-OTHER,1,8998.00
+2025-01,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,1599.00
+2025-01,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,3217.00
+2025-01,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,1,3999.00
+2025-01,A3031,Zaid Desai,Logistics,CANCEL,1,1799.00
+2025-01,A3031,Zaid Desai,Logistics,DOA-REPL,1,1799.00
+2025-01,A3031,Zaid Desai,Logistics,GW-OTHER,1,1999.00
+2025-01,A3032,Sneha Bansal,Billing,DUP-PAYMENT,4,6714.00
+2025-01,A3032,Sneha Bansal,Billing,GW-OTHER,2,4673.00
+2025-01,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,1619.00
+2025-01,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,1,6999.00
+2025-01,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,2,5598.00
+2025-01,A3034,Tanvi Rathore,Billing,GW-OTHER,1,80.00
+2025-01,A3034,Tanvi Rathore,Billing,RETURN-QC-OK,1,700.00
+2025-01,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,1,1799.00
+2025-01,A3035,Dev Kulkarni,Billing,GW-OTHER,1,2374.00
+2025-01,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,2,14698.00
+2025-01,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,4,4542.00
+2025-01,A3037,Manish Iyer,Returns Desk,GW-OTHER,4,11377.00
+2025-01,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,3,2853.00
+2025-01,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,1,4999.00
+2025-01,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,2,2787.00
+2025-01,A3040,Thomas Jadhav,Escalations & Warranty,GW-OTHER,1,900.00
+2025-02,A3002,Steven Ansari,Chat Frontline,RETURN-QC-OK,1,5849.00
+2025-02,A3003,Komal Singh,Chat Frontline,CANCEL,1,4248.00
+2025-02,A3006,Varun Bhatt,Chat Frontline,CANCEL,1,1439.00
+2025-02,A3007,Abhishek Gupta,Chat Frontline,CANCEL,1,1999.00
+2025-02,A3010,Tenzin Mathew,Chat Frontline,PRICE-ADJ,1,1999.00
+2025-02,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,6999.00
+2025-02,A3016,Thomas Kumar,Email Frontline,CANCEL,1,1709.00
+2025-02,A3017,Kabir Singh,Email Frontline,GW-OTHER,1,4749.00
+2025-02,A3018,Krishna Bhatt,Email Frontline,CANCEL,1,1709.00
+2025-02,A3018,Krishna Bhatt,Email Frontline,WTY-BUYBACK,1,5999.00
+2025-02,A3019,Kavya Agarwal,Email Frontline,CANCEL,1,237.00
+2025-02,A3022,Daniel Arora,Email Frontline,GW-OTHER,1,1299.00
+2025-02,A3023,Ritika Gaikwad,Voice Frontline,DUP-PAYMENT,1,900.00
+2025-02,A3025,Komal Malhotra,Voice Frontline,GW-OTHER,1,5599.00
+2025-02,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,2520.00
+2025-02,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,1,1699.00
+2025-02,A3027,Priya Agarwal,Logistics,GW-OTHER,1,2499.00
+2025-02,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,720.00
+2025-02,A3029,Rajat Mukherjee,Logistics,CANCEL,1,600.00
+2025-02,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,4373.00
+2025-02,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,2,1374.00
+2025-02,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,3,13280.00
+2025-02,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,1,13998.00
+2025-02,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,2,6924.00
+2025-02,A3031,Zaid Desai,Logistics,LOST-TRANSIT,1,2499.00
+2025-02,A3032,Sneha Bansal,Billing,DUP-PAYMENT,3,9937.00
+2025-02,A3032,Sneha Bansal,Billing,GW-OTHER,1,360.00
+2025-02,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,2,6544.00
+2025-02,A3033,Vikram Banerjee,Billing,GW-OTHER,1,6299.00
+2025-02,A3034,Tanvi Rathore,Billing,CANCEL,1,1799.00
+2025-02,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,1,1799.00
+2025-02,A3034,Tanvi Rathore,Billing,GW-OTHER,3,3440.00
+2025-02,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,2,9498.00
+2025-02,A3035,Dev Kulkarni,Billing,GW-OTHER,2,6818.00
+2025-02,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,2,3223.00
+2025-02,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,3,3122.00
+2025-02,A3036,Ritika D'Souza,Returns Desk,WTY-BUYBACK,1,6649.00
+2025-02,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,3,4480.00
+2025-02,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,2,835.00
+2025-02,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,3,8798.00
+2025-02,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,1899.00
+2025-02,A3040,Thomas Jadhav,Escalations & Warranty,DOA-REPL,1,5599.00
+2025-02,A3042,Swati Bhatia,Escalations & Warranty,GW-OTHER,1,1619.00
+2025-03,A3001,Suresh Kaur,Chat Frontline,DUP-PAYMENT,1,6649.00
+2025-03,A3002,Steven Ansari,Chat Frontline,GW-OTHER,2,2699.00
+2025-03,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,1040.00
+2025-03,A3011,Rohit Gill,Chat Frontline,GW-OTHER,1,375.00
+2025-03,A3012,Lakshmi Srivastava,Chat Frontline,DOA-REPL,1,2500.00
+2025-03,A3013,Rohit Nair,Chat Frontline,CANCEL,1,5849.00
+2025-03,A3013,Rohit Nair,Chat Frontline,GW-OTHER,1,6649.00
+2025-03,A3013,Rohit Nair,Chat Frontline,WTY-BUYBACK,1,4749.00
+2025-03,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,2,3848.00
+2025-03,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,1,6299.00
+2025-03,A3016,Thomas Kumar,Email Frontline,CANCEL,1,6299.00
+2025-03,A3017,Kabir Singh,Email Frontline,CANCEL,1,1599.00
+2025-03,A3017,Kabir Singh,Email Frontline,GW-OTHER,1,2374.00
+2025-03,A3017,Kabir Singh,Email Frontline,WTY-BUYBACK,1,2499.00
+2025-03,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,2,12848.00
+2025-03,A3019,Kavya Agarwal,Email Frontline,DUP-PAYMENT,1,750.00
+2025-03,A3019,Kavya Agarwal,Email Frontline,GW-OTHER,1,1799.00
+2025-03,A3020,Aadhya Singh,Email Frontline,DOA-REPL,1,2499.00
+2025-03,A3021,Meera Mathew,Email Frontline,CANCEL,1,1799.00
+2025-03,A3024,Amit Deshpande,Voice Frontline,CANCEL,1,1529.00
+2025-03,A3026,Aadhya Deshpande,Voice Frontline,DOA-REPL,1,6299.00
+2025-03,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,1,4499.00
+2025-03,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,1,1799.00
+2025-03,A3027,Priya Agarwal,Logistics,DOA-REPL,1,1619.00
+2025-03,A3027,Priya Agarwal,Logistics,LOST-TRANSIT,1,3999.00
+2025-03,A3028,Sameer Kapoor,Logistics,DOA-REPL,1,2374.00
+2025-03,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,1,1499.00
+2025-03,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,2,15597.00
+2025-03,A3031,Zaid Desai,Logistics,DOA-REPL,1,6999.00
+2025-03,A3032,Sneha Bansal,Billing,DUP-PAYMENT,2,7523.00
+2025-03,A3032,Sneha Bansal,Billing,GW-OTHER,2,8699.00
+2025-03,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,3,7967.00
+2025-03,A3033,Vikram Banerjee,Billing,GW-OTHER,2,3598.00
+2025-03,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,5,17350.00
+2025-03,A3034,Tanvi Rathore,Billing,GW-OTHER,2,5686.00
+2025-03,A3034,Tanvi Rathore,Billing,PRICE-ADJ,3,8185.00
+2025-03,A3035,Dev Kulkarni,Billing,DOA-REPL,1,5699.00
+2025-03,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,3,7522.00
+2025-03,A3035,Dev Kulkarni,Billing,GW-OTHER,5,16833.00
+2025-03,A3035,Dev Kulkarni,Billing,PRICE-ADJ,1,1799.00
+2025-03,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,3,2459.00
+2025-03,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,13,41860.00
+2025-03,A3037,Manish Iyer,Returns Desk,GW-OTHER,1,5399.00
+2025-03,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,6,11512.00
+2025-03,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,1,1799.00
+2025-03,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,5,17371.00
+2025-04,A3001,Suresh Kaur,Chat Frontline,DUP-PAYMENT,2,2199.00
+2025-04,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,6499.00
+2025-04,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,1,1799.00
+2025-04,A3006,Varun Bhatt,Chat Frontline,CANCEL,1,475.00
+2025-04,A3007,Abhishek Gupta,Chat Frontline,CANCEL,1,4249.00
+2025-04,A3009,Sukhwinder Singh,Chat Frontline,CANCEL,1,1999.00
+2025-04,A3011,Rohit Gill,Chat Frontline,CANCEL,1,2374.00
+2025-04,A3013,Rohit Nair,Chat Frontline,DOA-REPL,1,1799.00
+2025-04,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,6499.00
+2025-04,A3016,Thomas Kumar,Email Frontline,DOA-REPL,1,3598.00
+2025-04,A3017,Kabir Singh,Email Frontline,CANCEL,1,5399.00
+2025-04,A3017,Kabir Singh,Email Frontline,RETURN-QC-OK,1,2499.00
+2025-04,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,3,4288.00
+2025-04,A3020,Aadhya Singh,Email Frontline,CANCEL,1,5949.00
+2025-04,A3020,Aadhya Singh,Email Frontline,DUP-PAYMENT,1,1000.00
+2025-04,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,1799.00
+2025-04,A3022,Daniel Arora,Email Frontline,WTY-BUYBACK,1,2249.00
+2025-04,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,2,11247.00
+2025-04,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,5199.00
+2025-04,A3028,Sameer Kapoor,Logistics,DOA-REPL,2,5336.00
+2025-04,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,500.00
+2025-04,A3028,Sameer Kapoor,Logistics,WTY-BUYBACK,1,2374.00
+2025-04,A3029,Rajat Mukherjee,Logistics,GW-OTHER,1,5949.00
+2025-04,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,800.00
+2025-04,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,2,11698.00
+2025-04,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,1,1439.00
+2025-04,A3031,Zaid Desai,Logistics,GW-OTHER,1,800.00
+2025-04,A3032,Sneha Bansal,Billing,DUP-PAYMENT,1,144.00
+2025-04,A3033,Vikram Banerjee,Billing,CANCEL,1,1400.00
+2025-04,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,1,1699.00
+2025-04,A3033,Vikram Banerjee,Billing,GW-OTHER,4,14459.00
+2025-04,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,2374.00
+2025-04,A3033,Vikram Banerjee,Billing,RETURN-QC-OK,1,3500.00
+2025-04,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,3,13377.00
+2025-04,A3034,Tanvi Rathore,Billing,GW-OTHER,1,3998.00
+2025-04,A3035,Dev Kulkarni,Billing,CANCEL,1,1349.00
+2025-04,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,1,13298.00
+2025-04,A3035,Dev Kulkarni,Billing,GW-OTHER,2,6349.00
+2025-04,A3035,Dev Kulkarni,Billing,PRICE-ADJ,3,7548.00
+2025-04,A3036,Ritika D'Souza,Returns Desk,DUP-PAYMENT,1,5999.00
+2025-04,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,4,10657.00
+2025-04,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,6,12700.00
+2025-04,A3037,Manish Iyer,Returns Desk,GW-OTHER,3,8389.00
+2025-04,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,2,7053.00
+2025-04,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,4,13071.00
+2025-04,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,4,11987.00
+2025-04,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,1,5524.00
+2025-04,A3044,Arjun Kumar,Escalations & Warranty,WTY-BUYBACK,1,5199.00
+2025-05,A3001,Suresh Kaur,Chat Frontline,WTY-BUYBACK,1,1439.00
+2025-05,A3005,Payal Bhatia,Chat Frontline,DOA-REPL,1,1299.00
+2025-05,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,2499.00
+2025-05,A3007,Abhishek Gupta,Chat Frontline,CANCEL,1,375.00
+2025-05,A3008,Meera Malhotra,Chat Frontline,CANCEL,1,6174.00
+2025-05,A3008,Meera Malhotra,Chat Frontline,DUP-PAYMENT,1,5199.00
+2025-05,A3011,Rohit Gill,Chat Frontline,GW-OTHER,1,1170.00
+2025-05,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,1529.00
+2025-05,A3012,Lakshmi Srivastava,Chat Frontline,WTY-BUYBACK,1,1999.00
+2025-05,A3014,Anjali D'Souza,Chat Frontline,CANCEL,1,4749.00
+2025-05,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,160.00
+2025-05,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,1,750.00
+2025-05,A3017,Kabir Singh,Email Frontline,GW-OTHER,2,3698.00
+2025-05,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,1,5699.00
+2025-05,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,630.00
+2025-05,A3022,Daniel Arora,Email Frontline,RETURN-QC-OK,1,3087.00
+2025-05,A3023,Ritika Gaikwad,Voice Frontline,CANCEL,1,3324.00
+2025-05,A3023,Ritika Gaikwad,Voice Frontline,DUP-PAYMENT,1,1999.00
+2025-05,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,4,9818.00
+2025-05,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,1,285.00
+2025-05,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,1599.00
+2025-05,A3027,Priya Agarwal,Logistics,WTY-BUYBACK,1,5399.00
+2025-05,A3028,Sameer Kapoor,Logistics,CANCEL,1,1299.00
+2025-05,A3028,Sameer Kapoor,Logistics,GW-OTHER,1,720.00
+2025-05,A3028,Sameer Kapoor,Logistics,WTY-BUYBACK,1,6499.00
+2025-05,A3029,Rajat Mukherjee,Logistics,GW-OTHER,1,120.00
+2025-05,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,1799.00
+2025-05,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,1,400.00
+2025-05,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,4,16994.00
+2025-05,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,1,1799.00
+2025-05,A3031,Zaid Desai,Logistics,LOST-TRANSIT,1,780.00
+2025-05,A3032,Sneha Bansal,Billing,GW-OTHER,2,1425.00
+2025-05,A3032,Sneha Bansal,Billing,PRICE-ADJ,2,7598.00
+2025-05,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,2374.00
+2025-05,A3033,Vikram Banerjee,Billing,GW-OTHER,2,404.00
+2025-05,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,2249.00
+2025-05,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,1,5849.00
+2025-05,A3034,Tanvi Rathore,Billing,GW-OTHER,3,9302.00
+2025-05,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,3,3449.00
+2025-05,A3035,Dev Kulkarni,Billing,GW-OTHER,6,20801.00
+2025-05,A3035,Dev Kulkarni,Billing,PRICE-ADJ,3,13423.00
+2025-05,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,5,14987.00
+2025-05,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,4,11239.00
+2025-05,A3037,Manish Iyer,Returns Desk,GW-OTHER,4,9797.00
+2025-05,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,5,10880.00
+2025-05,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,4,7198.00
+2025-05,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,1899.00
+2025-05,A3043,Nikhil Gupta,Escalations & Warranty,GW-OTHER,1,1300.00
+2025-06,A3001,Suresh Kaur,Chat Frontline,CANCEL,1,6499.00
+2025-06,A3001,Suresh Kaur,Chat Frontline,DOA-REPL,1,6649.00
+2025-06,A3002,Steven Ansari,Chat Frontline,DUP-PAYMENT,1,6174.00
+2025-06,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,617.00
+2025-06,A3003,Komal Singh,Chat Frontline,WTY-BUYBACK,1,1104.00
+2025-06,A3004,Geeta Dutta,Chat Frontline,CANCEL,1,5524.00
+2025-06,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,1,3238.00
+2025-06,A3006,Varun Bhatt,Chat Frontline,CANCEL,1,1274.00
+2025-06,A3009,Sukhwinder Singh,Chat Frontline,LOST-TRANSIT,1,1499.00
+2025-06,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,2499.00
+2025-06,A3011,Rohit Gill,Chat Frontline,CANCEL,1,1999.00
+2025-06,A3011,Rohit Gill,Chat Frontline,PRICE-ADJ,1,1999.00
+2025-06,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,2,3798.00
+2025-06,A3012,Lakshmi Srivastava,Chat Frontline,RETURN-QC-OK,1,1799.00
+2025-06,A3014,Anjali D'Souza,Chat Frontline,DUP-PAYMENT,1,2974.00
+2025-06,A3017,Kabir Singh,Email Frontline,GW-OTHER,1,6999.00
+2025-06,A3018,Krishna Bhatt,Email Frontline,DOA-REPL,1,2499.00
+2025-06,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,2,4498.00
+2025-06,A3020,Aadhya Singh,Email Frontline,CANCEL,1,612.00
+2025-06,A3020,Aadhya Singh,Email Frontline,DUP-PAYMENT,1,5199.00
+2025-06,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,3999.00
+2025-06,A3022,Daniel Arora,Email Frontline,GW-OTHER,1,1799.00
+2025-06,A3023,Ritika Gaikwad,Voice Frontline,CANCEL,1,1300.00
+2025-06,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,200.00
+2025-06,A3027,Priya Agarwal,Logistics,DOA-REPL,2,7224.00
+2025-06,A3027,Priya Agarwal,Logistics,RETURN-QC-OK,1,200.00
+2025-06,A3027,Priya Agarwal,Logistics,WTY-BUYBACK,1,2499.00
+2025-06,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,6186.00
+2025-06,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,1999.00
+2025-06,A3028,Sameer Kapoor,Logistics,WTY-BUYBACK,1,5599.00
+2025-06,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,2124.00
+2025-06,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,1,1799.00
+2025-06,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,1,10398.00
+2025-06,A3031,Zaid Desai,Logistics,GW-OTHER,1,1299.00
+2025-06,A3031,Zaid Desai,Logistics,RETURN-QC-OK,1,2374.00
+2025-06,A3032,Sneha Bansal,Billing,DUP-PAYMENT,4,15496.00
+2025-06,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,2374.00
+2025-06,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,3,14308.00
+2025-06,A3033,Vikram Banerjee,Billing,GW-OTHER,1,1169.00
+2025-06,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,2499.00
+2025-06,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,2,4498.00
+2025-06,A3034,Tanvi Rathore,Billing,PRICE-ADJ,1,1299.00
+2025-06,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,3,5169.00
+2025-06,A3035,Dev Kulkarni,Billing,GW-OTHER,3,8597.00
+2025-06,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,2,3598.00
+2025-06,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,3,13877.00
+2025-06,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,8,26067.00
+2025-06,A3037,Manish Iyer,Returns Desk,GW-OTHER,4,6728.00
+2025-06,A3037,Manish Iyer,Returns Desk,PRICE-ADJ,1,1349.00
+2025-06,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,1,1424.00
+2025-06,A3038,Ankit Dhillon,Returns Desk,DUP-PAYMENT,1,6499.00
+2025-06,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,5,13171.00
+2025-06,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,2,7498.00
+2025-06,A3040,Thomas Jadhav,Escalations & Warranty,GW-OTHER,1,1699.00
+2025-06,A3044,Arjun Kumar,Escalations & Warranty,DOA-REPL,1,1599.00
+2025-06,A3044,Arjun Kumar,Escalations & Warranty,WTY-BUYBACK,1,4499.00
+2025-07,A3001,Suresh Kaur,Chat Frontline,CANCEL,1,4999.00
+2025-07,A3001,Suresh Kaur,Chat Frontline,WTY-BUYBACK,1,195.00
+2025-07,A3002,Steven Ansari,Chat Frontline,CANCEL,1,1299.00
+2025-07,A3002,Steven Ansari,Chat Frontline,PRICE-ADJ,1,1187.00
+2025-07,A3004,Geeta Dutta,Chat Frontline,CANCEL,2,7218.00
+2025-07,A3005,Payal Bhatia,Chat Frontline,DUP-PAYMENT,1,2124.00
+2025-07,A3009,Sukhwinder Singh,Chat Frontline,CANCEL,1,1799.00
+2025-07,A3009,Sukhwinder Singh,Chat Frontline,DUP-PAYMENT,2,4499.00
+2025-07,A3010,Tenzin Mathew,Chat Frontline,DOA-REPL,1,4499.00
+2025-07,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,2,8173.00
+2025-07,A3010,Tenzin Mathew,Chat Frontline,RETURN-QC-OK,1,780.00
+2025-07,A3012,Lakshmi Srivastava,Chat Frontline,DUP-PAYMENT,1,1999.00
+2025-07,A3013,Rohit Nair,Chat Frontline,CANCEL,2,13102.00
+2025-07,A3013,Rohit Nair,Chat Frontline,GW-OTHER,2,2048.00
+2025-07,A3014,Anjali D'Souza,Chat Frontline,DOA-REPL,1,945.00
+2025-07,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,2499.00
+2025-07,A3014,Anjali D'Souza,Chat Frontline,LOST-TRANSIT,1,1999.00
+2025-07,A3015,Sameer Jadhav,Chat Frontline,DUP-PAYMENT,2,5299.00
+2025-07,A3016,Thomas Kumar,Email Frontline,CANCEL,1,1105.00
+2025-07,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,5599.00
+2025-07,A3017,Kabir Singh,Email Frontline,WTY-BUYBACK,1,2374.00
+2025-07,A3018,Krishna Bhatt,Email Frontline,CANCEL,1,1899.00
+2025-07,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,1,2250.00
+2025-07,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,4499.00
+2025-07,A3021,Meera Mathew,Email Frontline,CANCEL,1,2124.00
+2025-07,A3022,Daniel Arora,Email Frontline,GW-OTHER,1,3499.00
+2025-07,A3024,Amit Deshpande,Voice Frontline,GW-OTHER,1,2799.00
+2025-07,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,300.00
+2025-07,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,3,6172.00
+2025-07,A3027,Priya Agarwal,Logistics,CANCEL,1,2499.00
+2025-07,A3027,Priya Agarwal,Logistics,GW-OTHER,2,14707.00
+2025-07,A3027,Priya Agarwal,Logistics,LOST-TRANSIT,1,450.00
+2025-07,A3028,Sameer Kapoor,Logistics,GW-OTHER,3,13747.00
+2025-07,A3029,Rajat Mukherjee,Logistics,CANCEL,2,7123.00
+2025-07,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,3499.00
+2025-07,A3029,Rajat Mukherjee,Logistics,GW-OTHER,1,12998.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,5399.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,2,1967.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,5,16255.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,7349.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,1,6499.00
+2025-07,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,1,1104.00
+2025-07,A3031,Zaid Desai,Logistics,GW-OTHER,2,3998.00
+2025-07,A3031,Zaid Desai,Logistics,LOST-TRANSIT,1,2499.00
+2025-07,A3032,Sneha Bansal,Billing,CANCEL,1,285.00
+2025-07,A3032,Sneha Bansal,Billing,DUP-PAYMENT,3,9643.00
+2025-07,A3032,Sneha Bansal,Billing,GW-OTHER,4,8092.00
+2025-07,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,1,2974.00
+2025-07,A3033,Vikram Banerjee,Billing,GW-OTHER,3,4583.00
+2025-07,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,3499.00
+2025-07,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,4,15512.00
+2025-07,A3034,Tanvi Rathore,Billing,GW-OTHER,1,6499.00
+2025-07,A3035,Dev Kulkarni,Billing,CANCEL,1,1190.00
+2025-07,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,5,15176.00
+2025-07,A3035,Dev Kulkarni,Billing,GW-OTHER,4,5123.00
+2025-07,A3035,Dev Kulkarni,Billing,PRICE-ADJ,2,6998.00
+2025-07,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,2,7448.00
+2025-07,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,3,7421.00
+2025-07,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,6,18170.00
+2025-07,A3037,Manish Iyer,Returns Desk,CANCEL,1,650.00
+2025-07,A3037,Manish Iyer,Returns Desk,GW-OTHER,1,2499.00
+2025-07,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,3,15022.00
+2025-07,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,2,3289.00
+2025-07,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,4,4016.00
+2025-07,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,1,2499.00
+2025-07,A3041,Mohammed Mehta,Escalations & Warranty,WTY-BUYBACK,1,5849.00
+2025-07,A3044,Arjun Kumar,Escalations & Warranty,DOA-REPL,1,6999.00
+2025-07,A3044,Arjun Kumar,Escalations & Warranty,GW-OTHER,1,6174.00
+2025-08,A3001,Suresh Kaur,Chat Frontline,CANCEL,1,6299.00
+2025-08,A3004,Geeta Dutta,Chat Frontline,PRICE-ADJ,1,2878.00
+2025-08,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,2,4309.00
+2025-08,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,2,4173.00
+2025-08,A3007,Abhishek Gupta,Chat Frontline,DOA-REPL,1,1439.00
+2025-08,A3007,Abhishek Gupta,Chat Frontline,GW-OTHER,3,12497.00
+2025-08,A3008,Meera Malhotra,Chat Frontline,WTY-BUYBACK,1,1799.00
+2025-08,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,1,3149.00
+2025-08,A3011,Rohit Gill,Chat Frontline,CANCEL,1,6499.00
+2025-08,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,1400.00
+2025-08,A3014,Anjali D'Souza,Chat Frontline,CANCEL,1,2249.00
+2025-08,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,2,7848.00
+2025-08,A3017,Kabir Singh,Email Frontline,CANCEL,1,6499.00
+2025-08,A3017,Kabir Singh,Email Frontline,GW-OTHER,2,5118.00
+2025-08,A3018,Krishna Bhatt,Email Frontline,CANCEL,2,5714.00
+2025-08,A3018,Krishna Bhatt,Email Frontline,DOA-REPL,1,1169.00
+2025-08,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,221.00
+2025-08,A3022,Daniel Arora,Email Frontline,DUP-PAYMENT,1,3324.00
+2025-08,A3022,Daniel Arora,Email Frontline,GW-OTHER,1,1999.00
+2025-08,A3025,Komal Malhotra,Voice Frontline,GW-OTHER,2,5473.00
+2025-08,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,2,5998.00
+2025-08,A3027,Priya Agarwal,Logistics,LOST-TRANSIT,1,3499.00
+2025-08,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,2,5298.00
+2025-08,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,5598.00
+2025-08,A3029,Rajat Mukherjee,Logistics,LOST-TRANSIT,1,6499.00
+2025-08,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,6499.00
+2025-08,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,2,9473.00
+2025-08,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,5,14086.00
+2025-08,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,8848.00
+2025-08,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,1,3324.00
+2025-08,A3031,Zaid Desai,Logistics,DOA-REPL,1,4999.00
+2025-08,A3031,Zaid Desai,Logistics,LOST-TRANSIT,1,617.00
+2025-08,A3032,Sneha Bansal,Billing,CANCEL,1,3499.00
+2025-08,A3032,Sneha Bansal,Billing,DUP-PAYMENT,2,1370.00
+2025-08,A3032,Sneha Bansal,Billing,GW-OTHER,1,810.00
+2025-08,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,500.00
+2025-08,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,6,21520.00
+2025-08,A3033,Vikram Banerjee,Billing,GW-OTHER,1,1999.00
+2025-08,A3034,Tanvi Rathore,Billing,CANCEL,1,1750.00
+2025-08,A3034,Tanvi Rathore,Billing,GW-OTHER,2,5224.00
+2025-08,A3034,Tanvi Rathore,Billing,RETURN-QC-OK,3,3229.00
+2025-08,A3035,Dev Kulkarni,Billing,CANCEL,1,2499.00
+2025-08,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,6,16496.00
+2025-08,A3035,Dev Kulkarni,Billing,GW-OTHER,3,4623.00
+2025-08,A3035,Dev Kulkarni,Billing,PRICE-ADJ,1,2499.00
+2025-08,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,1,700.00
+2025-08,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,8,23885.00
+2025-08,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,7,15915.00
+2025-08,A3036,Ritika D'Souza,Returns Desk,WTY-BUYBACK,1,3499.00
+2025-08,A3037,Manish Iyer,Returns Desk,GW-OTHER,5,17445.00
+2025-08,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,5,13127.00
+2025-08,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,3,9717.00
+2025-08,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,10,29528.00
+2025-08,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,3,15197.00
+2025-08,A3040,Thomas Jadhav,Escalations & Warranty,DOA-REPL,1,1999.00
+2025-08,A3041,Mohammed Mehta,Escalations & Warranty,WTY-BUYBACK,1,2499.00
+2025-08,A3042,Swati Bhatia,Escalations & Warranty,DOA-REPL,1,5999.00
+2025-08,A3044,Arjun Kumar,Escalations & Warranty,DOA-REPL,1,3499.00
+2025-09,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,1234.00
+2025-09,A3003,Komal Singh,Chat Frontline,GW-OTHER,2,7973.00
+2025-09,A3004,Geeta Dutta,Chat Frontline,CANCEL,1,1439.00
+2025-09,A3004,Geeta Dutta,Chat Frontline,GW-OTHER,1,162.00
+2025-09,A3005,Payal Bhatia,Chat Frontline,CANCEL,2,6471.00
+2025-09,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,1,712.00
+2025-09,A3006,Varun Bhatt,Chat Frontline,CANCEL,1,5199.00
+2025-09,A3006,Varun Bhatt,Chat Frontline,DUP-PAYMENT,1,1499.00
+2025-09,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,2499.00
+2025-09,A3007,Abhishek Gupta,Chat Frontline,CANCEL,1,2799.00
+2025-09,A3008,Meera Malhotra,Chat Frontline,CANCEL,2,3466.00
+2025-09,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,1,1234.00
+2025-09,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,319.00
+2025-09,A3010,Tenzin Mathew,Chat Frontline,DOA-REPL,1,2974.00
+2025-09,A3013,Rohit Nair,Chat Frontline,CANCEL,1,342.00
+2025-09,A3013,Rohit Nair,Chat Frontline,GW-OTHER,1,6999.00
+2025-09,A3013,Rohit Nair,Chat Frontline,PRICE-ADJ,1,5524.00
+2025-09,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,2974.00
+2025-09,A3015,Sameer Jadhav,Chat Frontline,CANCEL,1,1750.00
+2025-09,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,3,8403.00
+2025-09,A3015,Sameer Jadhav,Chat Frontline,WTY-BUYBACK,1,3499.00
+2025-09,A3016,Thomas Kumar,Email Frontline,GW-OTHER,2,3598.00
+2025-09,A3017,Kabir Singh,Email Frontline,GW-OTHER,1,2799.00
+2025-09,A3018,Krishna Bhatt,Email Frontline,CANCEL,2,5473.00
+2025-09,A3018,Krishna Bhatt,Email Frontline,DOA-REPL,2,6438.00
+2025-09,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,4,10352.00
+2025-09,A3018,Krishna Bhatt,Email Frontline,LOST-TRANSIT,1,5999.00
+2025-09,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,1999.00
+2025-09,A3021,Meera Mathew,Email Frontline,CANCEL,1,280.00
+2025-09,A3022,Daniel Arora,Email Frontline,DUP-PAYMENT,1,1039.00
+2025-09,A3024,Amit Deshpande,Voice Frontline,CANCEL,1,11198.00
+2025-09,A3024,Amit Deshpande,Voice Frontline,WTY-BUYBACK,1,700.00
+2025-09,A3025,Komal Malhotra,Voice Frontline,GW-OTHER,2,4503.00
+2025-09,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,1,1439.00
+2025-09,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,3,10113.00
+2025-09,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,2499.00
+2025-09,A3027,Priya Agarwal,Logistics,DOA-REPL,2,7973.00
+2025-09,A3027,Priya Agarwal,Logistics,GW-OTHER,1,2799.00
+2025-09,A3028,Sameer Kapoor,Logistics,GW-OTHER,4,14471.00
+2025-09,A3028,Sameer Kapoor,Logistics,LOST-TRANSIT,1,2499.00
+2025-09,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,3499.00
+2025-09,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,12797.00
+2025-09,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,3,8247.00
+2025-09,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,1,3499.00
+2025-09,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,3,5149.00
+2025-09,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,1,6499.00
+2025-09,A3031,Zaid Desai,Logistics,DOA-REPL,1,6499.00
+2025-09,A3031,Zaid Desai,Logistics,GW-OTHER,2,3798.00
+2025-09,A3031,Zaid Desai,Logistics,WTY-BUYBACK,1,2249.00
+2025-09,A3032,Sneha Bansal,Billing,DUP-PAYMENT,2,3199.00
+2025-09,A3032,Sneha Bansal,Billing,GW-OTHER,4,12296.00
+2025-09,A3032,Sneha Bansal,Billing,PRICE-ADJ,1,750.00
+2025-09,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,700.00
+2025-09,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,4,11047.00
+2025-09,A3033,Vikram Banerjee,Billing,PRICE-ADJ,2,2439.00
+2025-09,A3034,Tanvi Rathore,Billing,CANCEL,1,2249.00
+2025-09,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,5,6109.00
+2025-09,A3034,Tanvi Rathore,Billing,GW-OTHER,2,7999.00
+2025-09,A3034,Tanvi Rathore,Billing,PRICE-ADJ,1,1999.00
+2025-09,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,8,32542.00
+2025-09,A3035,Dev Kulkarni,Billing,GW-OTHER,6,14385.00
+2025-09,A3035,Dev Kulkarni,Billing,PRICE-ADJ,1,3999.00
+2025-09,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,1,617.00
+2025-09,A3036,Ritika D'Souza,Returns Desk,DOA-REPL,1,6174.00
+2025-09,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,7,14279.00
+2025-09,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,6,26294.00
+2025-09,A3037,Manish Iyer,Returns Desk,GW-OTHER,4,19296.00
+2025-09,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,9,13140.00
+2025-09,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,7,40816.00
+2025-09,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,7,11746.00
+2025-09,A3039,Reyansh Mishra,Escalations & Warranty,DOA-REPL,3,14148.00
+2025-09,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,3,13997.00
+2025-09,A3040,Thomas Jadhav,Escalations & Warranty,DOA-REPL,1,1187.00
+2025-09,A3043,Nikhil Gupta,Escalations & Warranty,WTY-BUYBACK,1,4999.00
+2025-10,A3001,Suresh Kaur,Chat Frontline,CANCEL,1,2974.00
+2025-10,A3001,Suresh Kaur,Chat Frontline,GW-OTHER,2,9123.00
+2025-10,A3002,Steven Ansari,Chat Frontline,GW-OTHER,3,11799.00
+2025-10,A3003,Komal Singh,Chat Frontline,DOA-REPL,1,4499.00
+2025-10,A3004,Geeta Dutta,Chat Frontline,CANCEL,1,3324.00
+2025-10,A3004,Geeta Dutta,Chat Frontline,WTY-BUYBACK,1,3999.00
+2025-10,A3005,Payal Bhatia,Chat Frontline,DUP-PAYMENT,1,3324.00
+2025-10,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,2,8098.00
+2025-10,A3005,Payal Bhatia,Chat Frontline,RETURN-QC-OK,1,3398.00
+2025-10,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,6998.00
+2025-10,A3006,Varun Bhatt,Chat Frontline,PRICE-ADJ,1,2799.00
+2025-10,A3008,Meera Malhotra,Chat Frontline,CANCEL,1,2499.00
+2025-10,A3009,Sukhwinder Singh,Chat Frontline,CANCEL,2,3948.00
+2025-10,A3009,Sukhwinder Singh,Chat Frontline,DUP-PAYMENT,1,975.00
+2025-10,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,2,4899.00
+2025-10,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,40.00
+2025-10,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,1,6648.00
+2025-10,A3010,Tenzin Mathew,Chat Frontline,WTY-BUYBACK,1,6649.00
+2025-10,A3011,Rohit Gill,Chat Frontline,CANCEL,1,3149.00
+2025-10,A3011,Rohit Gill,Chat Frontline,GW-OTHER,3,10848.00
+2025-10,A3012,Lakshmi Srivastava,Chat Frontline,DOA-REPL,1,3324.00
+2025-10,A3012,Lakshmi Srivastava,Chat Frontline,DUP-PAYMENT,1,1499.00
+2025-10,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,5949.00
+2025-10,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,1999.00
+2025-10,A3016,Thomas Kumar,Email Frontline,CANCEL,1,1750.00
+2025-10,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,1799.00
+2025-10,A3016,Thomas Kumar,Email Frontline,PRICE-ADJ,1,6174.00
+2025-10,A3017,Kabir Singh,Email Frontline,CANCEL,2,6473.00
+2025-10,A3017,Kabir Singh,Email Frontline,GW-OTHER,2,5148.00
+2025-10,A3017,Kabir Singh,Email Frontline,WTY-BUYBACK,1,3499.00
+2025-10,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,3,5197.00
+2025-10,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,3,8223.00
+2025-10,A3018,Krishna Bhatt,Email Frontline,LOST-TRANSIT,1,225.00
+2025-10,A3018,Krishna Bhatt,Email Frontline,WTY-BUYBACK,1,472.00
+2025-10,A3020,Aadhya Singh,Email Frontline,CANCEL,1,5399.00
+2025-10,A3021,Meera Mathew,Email Frontline,CANCEL,1,2124.00
+2025-10,A3021,Meera Mathew,Email Frontline,GW-OTHER,1,3999.00
+2025-10,A3022,Daniel Arora,Email Frontline,GW-OTHER,1,5999.00
+2025-10,A3023,Ritika Gaikwad,Voice Frontline,GW-OTHER,2,12397.00
+2025-10,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,6499.00
+2025-10,A3026,Aadhya Deshpande,Voice Frontline,DOA-REPL,1,1999.00
+2025-10,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,2,13517.00
+2025-10,A3027,Priya Agarwal,Logistics,RETURN-QC-OK,1,3499.00
+2025-10,A3028,Sameer Kapoor,Logistics,GW-OTHER,3,11623.00
+2025-10,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,5173.00
+2025-10,A3029,Rajat Mukherjee,Logistics,LOST-TRANSIT,1,2499.00
+2025-10,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,3499.00
+2025-10,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,3,10008.00
+2025-10,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,8,14014.00
+2025-10,A3031,Zaid Desai,Logistics,GW-OTHER,2,6473.00
+2025-10,A3032,Sneha Bansal,Billing,CANCEL,1,2000.00
+2025-10,A3032,Sneha Bansal,Billing,DUP-PAYMENT,6,15264.00
+2025-10,A3032,Sneha Bansal,Billing,GW-OTHER,7,20605.00
+2025-10,A3032,Sneha Bansal,Billing,LOST-TRANSIT,1,650.00
+2025-10,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,6,23545.00
+2025-10,A3033,Vikram Banerjee,Billing,GW-OTHER,3,18396.00
+2025-10,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,4,3589.00
+2025-10,A3034,Tanvi Rathore,Billing,GW-OTHER,4,8029.00
+2025-10,A3035,Dev Kulkarni,Billing,CANCEL,1,2374.00
+2025-10,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,11,21013.00
+2025-10,A3035,Dev Kulkarni,Billing,GW-OTHER,14,44648.00
+2025-10,A3035,Dev Kulkarni,Billing,PRICE-ADJ,2,663.00
+2025-10,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,15,46184.00
+2025-10,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,7,26793.00
+2025-10,A3037,Manish Iyer,Returns Desk,GW-OTHER,1,900.00
+2025-10,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,5,15753.00
+2025-10,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,5,12124.00
+2025-10,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,7,24270.00
+2025-10,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,5,24895.00
+2025-10,A3042,Swati Bhatia,Escalations & Warranty,GW-OTHER,1,3500.00
+2025-11,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,4749.00
+2025-11,A3003,Komal Singh,Chat Frontline,CANCEL,1,3499.00
+2025-11,A3003,Komal Singh,Chat Frontline,DUP-PAYMENT,1,6174.00
+2025-11,A3003,Komal Singh,Chat Frontline,GW-OTHER,1,1104.00
+2025-11,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,2,7287.00
+2025-11,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,5999.00
+2025-11,A3007,Abhishek Gupta,Chat Frontline,CANCEL,1,6499.00
+2025-11,A3010,Tenzin Mathew,Chat Frontline,CANCEL,2,11148.00
+2025-11,A3011,Rohit Gill,Chat Frontline,CANCEL,3,14882.00
+2025-11,A3012,Lakshmi Srivastava,Chat Frontline,CANCEL,1,2974.00
+2025-11,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,2,5298.00
+2025-11,A3013,Rohit Nair,Chat Frontline,CANCEL,1,2499.00
+2025-11,A3013,Rohit Nair,Chat Frontline,DUP-PAYMENT,1,3149.00
+2025-11,A3013,Rohit Nair,Chat Frontline,GW-OTHER,1,1709.00
+2025-11,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,2499.00
+2025-11,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,2,5924.00
+2025-11,A3015,Sameer Jadhav,Chat Frontline,WTY-BUYBACK,1,2799.00
+2025-11,A3016,Thomas Kumar,Email Frontline,DOA-REPL,1,13998.00
+2025-11,A3016,Thomas Kumar,Email Frontline,DUP-PAYMENT,1,6998.00
+2025-11,A3017,Kabir Singh,Email Frontline,DOA-REPL,1,2799.00
+2025-11,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,1799.00
+2025-11,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,7,14436.00
+2025-11,A3019,Kavya Agarwal,Email Frontline,WTY-BUYBACK,1,3149.00
+2025-11,A3020,Aadhya Singh,Email Frontline,DUP-PAYMENT,1,1000.00
+2025-11,A3021,Meera Mathew,Email Frontline,WTY-BUYBACK,1,2499.00
+2025-11,A3024,Amit Deshpande,Voice Frontline,GW-OTHER,2,4024.00
+2025-11,A3025,Komal Malhotra,Voice Frontline,DOA-REPL,1,212.00
+2025-11,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,2,7269.00
+2025-11,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,1999.00
+2025-11,A3027,Priya Agarwal,Logistics,DOA-REPL,2,10273.00
+2025-11,A3027,Priya Agarwal,Logistics,GW-OTHER,1,11398.00
+2025-11,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,2814.00
+2025-11,A3028,Sameer Kapoor,Logistics,WTY-BUYBACK,1,1299.00
+2025-11,A3029,Rajat Mukherjee,Logistics,DOA-REPL,2,4161.00
+2025-11,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,7499.00
+2025-11,A3029,Rajat Mukherjee,Logistics,RETURN-QC-OK,1,1662.00
+2025-11,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,3324.00
+2025-11,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,6,19505.00
+2025-11,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,8,26592.00
+2025-11,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,4199.00
+2025-11,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,3,9147.00
+2025-11,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,2,6973.00
+2025-11,A3031,Zaid Desai,Logistics,GW-OTHER,2,3563.00
+2025-11,A3032,Sneha Bansal,Billing,DUP-PAYMENT,3,9562.00
+2025-11,A3032,Sneha Bansal,Billing,GW-OTHER,3,13282.00
+2025-11,A3032,Sneha Bansal,Billing,PRICE-ADJ,1,5999.00
+2025-11,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,6499.00
+2025-11,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,6,9235.00
+2025-11,A3033,Vikram Banerjee,Billing,GW-OTHER,5,19432.00
+2025-11,A3033,Vikram Banerjee,Billing,RETURN-QC-OK,2,10348.00
+2025-11,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,4,9172.00
+2025-11,A3034,Tanvi Rathore,Billing,GW-OTHER,3,5060.00
+2025-11,A3034,Tanvi Rathore,Billing,PRICE-ADJ,1,5949.00
+2025-11,A3034,Tanvi Rathore,Billing,RETURN-QC-OK,1,2374.00
+2025-11,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,9,27391.00
+2025-11,A3035,Dev Kulkarni,Billing,GW-OTHER,6,11046.00
+2025-11,A3035,Dev Kulkarni,Billing,PRICE-ADJ,2,4498.00
+2025-11,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,14,49971.00
+2025-11,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,8,25691.00
+2025-11,A3036,Ritika D'Souza,Returns Desk,WTY-BUYBACK,2,5498.00
+2025-11,A3037,Manish Iyer,Returns Desk,DOA-REPL,1,2499.00
+2025-11,A3037,Manish Iyer,Returns Desk,GW-OTHER,5,6677.00
+2025-11,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,10,16997.00
+2025-11,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,1,297.00
+2025-11,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,11,35776.00
+2025-11,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,3,9172.00
+2025-11,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,5999.00
+2025-11,A3041,Mohammed Mehta,Escalations & Warranty,GW-OTHER,1,1439.00
+2025-11,A3042,Swati Bhatia,Escalations & Warranty,GW-OTHER,3,9164.00
+2025-11,A3044,Arjun Kumar,Escalations & Warranty,GW-OTHER,1,6174.00
+2025-12,A3001,Suresh Kaur,Chat Frontline,RETURN-QC-OK,1,630.00
+2025-12,A3002,Steven Ansari,Chat Frontline,CANCEL,1,2974.00
+2025-12,A3002,Steven Ansari,Chat Frontline,DOA-REPL,1,6999.00
+2025-12,A3002,Steven Ansari,Chat Frontline,GW-OTHER,3,19597.00
+2025-12,A3003,Komal Singh,Chat Frontline,DOA-REPL,1,6299.00
+2025-12,A3005,Payal Bhatia,Chat Frontline,DUP-PAYMENT,1,560.00
+2025-12,A3006,Varun Bhatt,Chat Frontline,CANCEL,2,4234.00
+2025-12,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,160.00
+2025-12,A3007,Abhishek Gupta,Chat Frontline,DUP-PAYMENT,1,3499.00
+2025-12,A3007,Abhishek Gupta,Chat Frontline,GW-OTHER,1,6499.00
+2025-12,A3007,Abhishek Gupta,Chat Frontline,WTY-BUYBACK,1,3324.00
+2025-12,A3008,Meera Malhotra,Chat Frontline,GW-OTHER,1,6499.00
+2025-12,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,2,4508.00
+2025-12,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,500.00
+2025-12,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,1,2799.00
+2025-12,A3012,Lakshmi Srivastava,Chat Frontline,CANCEL,1,1999.00
+2025-12,A3013,Rohit Nair,Chat Frontline,CANCEL,1,3499.00
+2025-12,A3013,Rohit Nair,Chat Frontline,DOA-REPL,1,2499.00
+2025-12,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,1,2799.00
+2025-12,A3015,Sameer Jadhav,Chat Frontline,DOA-REPL,1,3499.00
+2025-12,A3015,Sameer Jadhav,Chat Frontline,DUP-PAYMENT,1,1299.00
+2025-12,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,3,10058.00
+2025-12,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,525.00
+2025-12,A3017,Kabir Singh,Email Frontline,WTY-BUYBACK,1,472.00
+2025-12,A3018,Krishna Bhatt,Email Frontline,CANCEL,3,16952.00
+2025-12,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,2499.00
+2025-12,A3018,Krishna Bhatt,Email Frontline,WTY-BUYBACK,2,3924.00
+2025-12,A3019,Kavya Agarwal,Email Frontline,CANCEL,2,3324.00
+2025-12,A3019,Kavya Agarwal,Email Frontline,GW-OTHER,1,700.00
+2025-12,A3021,Meera Mathew,Email Frontline,GW-OTHER,2,8973.00
+2025-12,A3021,Meera Mathew,Email Frontline,WTY-BUYBACK,1,6649.00
+2025-12,A3022,Daniel Arora,Email Frontline,GW-OTHER,3,7115.00
+2025-12,A3024,Amit Deshpande,Voice Frontline,DUP-PAYMENT,1,1105.00
+2025-12,A3025,Komal Malhotra,Voice Frontline,GW-OTHER,1,2499.00
+2025-12,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,3,6922.00
+2025-12,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,2,9747.00
+2025-12,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,3,5402.00
+2025-12,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,1619.00
+2025-12,A3027,Priya Agarwal,Logistics,GW-OTHER,2,3324.00
+2025-12,A3027,Priya Agarwal,Logistics,RETURN-QC-OK,1,3499.00
+2025-12,A3028,Sameer Kapoor,Logistics,CANCEL,1,11198.00
+2025-12,A3028,Sameer Kapoor,Logistics,GW-OTHER,1,375.00
+2025-12,A3028,Sameer Kapoor,Logistics,LOST-TRANSIT,1,1299.00
+2025-12,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,2,6649.00
+2025-12,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,3499.00
+2025-12,A3029,Rajat Mukherjee,Logistics,RETURN-QC-OK,2,6563.00
+2025-12,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,1,840.00
+2025-12,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,3,5248.00
+2025-12,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,4098.00
+2025-12,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,2,4273.00
+2025-12,A3031,Zaid Desai,Logistics,CANCEL,1,350.00
+2025-12,A3031,Zaid Desai,Logistics,DUP-PAYMENT,1,3499.00
+2025-12,A3031,Zaid Desai,Logistics,GW-OTHER,1,525.00
+2025-12,A3031,Zaid Desai,Logistics,LOST-TRANSIT,1,4499.00
+2025-12,A3031,Zaid Desai,Logistics,RETURN-QC-OK,2,5217.00
+2025-12,A3032,Sneha Bansal,Billing,DUP-PAYMENT,4,10606.00
+2025-12,A3032,Sneha Bansal,Billing,GW-OTHER,4,11534.00
+2025-12,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,5699.00
+2025-12,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,2,4948.00
+2025-12,A3033,Vikram Banerjee,Billing,GW-OTHER,5,8807.00
+2025-12,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,2499.00
+2025-12,A3033,Vikram Banerjee,Billing,RETURN-QC-OK,2,4198.00
+2025-12,A3034,Tanvi Rathore,Billing,CANCEL,1,6174.00
+2025-12,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,1,2600.00
+2025-12,A3034,Tanvi Rathore,Billing,GW-OTHER,2,2057.00
+2025-12,A3034,Tanvi Rathore,Billing,RETURN-QC-OK,1,3149.00
+2025-12,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,8,30676.00
+2025-12,A3035,Dev Kulkarni,Billing,GW-OTHER,8,20255.00
+2025-12,A3035,Dev Kulkarni,Billing,PRICE-ADJ,2,2755.00
+2025-12,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,1,3324.00
+2025-12,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,6,19768.00
+2025-12,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,12,27328.00
+2025-12,A3037,Manish Iyer,Returns Desk,GW-OTHER,7,11062.00
+2025-12,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,6,12186.00
+2025-12,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,7,22630.00
+2025-12,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,7,21586.00
+2025-12,A3039,Reyansh Mishra,Escalations & Warranty,DOA-REPL,1,1999.00
+2025-12,A3043,Nikhil Gupta,Escalations & Warranty,DOA-REPL,1,1999.00
+2026-01,A3001,Suresh Kaur,Chat Frontline,DOA-REPL,1,5524.00
+2026-01,A3002,Steven Ansari,Chat Frontline,DUP-PAYMENT,1,5199.00
+2026-01,A3003,Komal Singh,Chat Frontline,CANCEL,2,2723.00
+2026-01,A3003,Komal Singh,Chat Frontline,GW-OTHER,1,3499.00
+2026-01,A3003,Komal Singh,Chat Frontline,WTY-BUYBACK,1,3499.00
+2026-01,A3004,Geeta Dutta,Chat Frontline,GW-OTHER,3,10497.00
+2026-01,A3005,Payal Bhatia,Chat Frontline,DOA-REPL,1,1999.00
+2026-01,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,3499.00
+2026-01,A3007,Abhishek Gupta,Chat Frontline,CANCEL,2,6648.00
+2026-01,A3007,Abhishek Gupta,Chat Frontline,PRICE-ADJ,1,3499.00
+2026-01,A3008,Meera Malhotra,Chat Frontline,CANCEL,1,3149.00
+2026-01,A3008,Meera Malhotra,Chat Frontline,GW-OTHER,1,500.00
+2026-01,A3008,Meera Malhotra,Chat Frontline,PRICE-ADJ,1,400.00
+2026-01,A3008,Meera Malhotra,Chat Frontline,WTY-BUYBACK,1,3149.00
+2026-01,A3009,Sukhwinder Singh,Chat Frontline,DUP-PAYMENT,1,1250.00
+2026-01,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,2,7223.00
+2026-01,A3009,Sukhwinder Singh,Chat Frontline,LOST-TRANSIT,1,2249.00
+2026-01,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,700.00
+2026-01,A3011,Rohit Gill,Chat Frontline,GW-OTHER,3,13297.00
+2026-01,A3012,Lakshmi Srivastava,Chat Frontline,DUP-PAYMENT,1,520.00
+2026-01,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,3149.00
+2026-01,A3013,Rohit Nair,Chat Frontline,CANCEL,1,3499.00
+2026-01,A3013,Rohit Nair,Chat Frontline,DUP-PAYMENT,1,2468.00
+2026-01,A3013,Rohit Nair,Chat Frontline,GW-OTHER,1,700.00
+2026-01,A3013,Rohit Nair,Chat Frontline,WTY-BUYBACK,1,4998.00
+2026-01,A3014,Anjali D'Souza,Chat Frontline,CANCEL,1,1299.00
+2026-01,A3015,Sameer Jadhav,Chat Frontline,CANCEL,1,2974.00
+2026-01,A3016,Thomas Kumar,Email Frontline,CANCEL,1,630.00
+2026-01,A3016,Thomas Kumar,Email Frontline,GW-OTHER,2,3399.00
+2026-01,A3017,Kabir Singh,Email Frontline,CANCEL,1,1799.00
+2026-01,A3017,Kabir Singh,Email Frontline,DUP-PAYMENT,1,5599.00
+2026-01,A3018,Krishna Bhatt,Email Frontline,CANCEL,3,5597.00
+2026-01,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,4,9946.00
+2026-01,A3018,Krishna Bhatt,Email Frontline,WTY-BUYBACK,2,4448.00
+2026-01,A3021,Meera Mathew,Email Frontline,GW-OTHER,1,1699.00
+2026-01,A3024,Amit Deshpande,Voice Frontline,DUP-PAYMENT,1,3499.00
+2026-01,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,2799.00
+2026-01,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,2,5924.00
+2026-01,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,2,8873.00
+2026-01,A3027,Priya Agarwal,Logistics,GW-OTHER,2,5298.00
+2026-01,A3027,Priya Agarwal,Logistics,LOST-TRANSIT,1,3149.00
+2026-01,A3027,Priya Agarwal,Logistics,RETURN-QC-OK,1,525.00
+2026-01,A3028,Sameer Kapoor,Logistics,DOA-REPL,1,6998.00
+2026-01,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,2998.00
+2026-01,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,2974.00
+2026-01,A3029,Rajat Mukherjee,Logistics,GW-OTHER,2,15097.00
+2026-01,A3029,Rajat Mukherjee,Logistics,LOST-TRANSIT,1,1999.00
+2026-01,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,2499.00
+2026-01,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,2,8898.00
+2026-01,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,3,7453.00
+2026-01,A3031,Zaid Desai,Logistics,DOA-REPL,1,4499.00
+2026-01,A3031,Zaid Desai,Logistics,GW-OTHER,1,3499.00
+2026-01,A3032,Sneha Bansal,Billing,DUP-PAYMENT,6,28419.00
+2026-01,A3032,Sneha Bansal,Billing,GW-OTHER,1,6649.00
+2026-01,A3032,Sneha Bansal,Billing,PRICE-ADJ,1,6499.00
+2026-01,A3033,Vikram Banerjee,Billing,CANCEL,1,332.00
+2026-01,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,3,7310.00
+2026-01,A3033,Vikram Banerjee,Billing,GW-OTHER,4,6013.00
+2026-01,A3034,Tanvi Rathore,Billing,CANCEL,1,2499.00
+2026-01,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,6,17141.00
+2026-01,A3034,Tanvi Rathore,Billing,GW-OTHER,2,3799.00
+2026-01,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,5,10749.00
+2026-01,A3035,Dev Kulkarni,Billing,GW-OTHER,6,15461.00
+2026-01,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,3,7723.00
+2026-01,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,5,13893.00
+2026-01,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,12,46713.00
+2026-01,A3037,Manish Iyer,Returns Desk,GW-OTHER,5,10601.00
+2026-01,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,2,6248.00
+2026-01,A3038,Ankit Dhillon,Returns Desk,DUP-PAYMENT,1,280.00
+2026-01,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,6,20190.00
+2026-01,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,4,9015.00
+2026-01,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,1,6499.00
+2026-01,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,3149.00
+2026-01,A3042,Swati Bhatia,Escalations & Warranty,DOA-REPL,1,1169.00
+2026-01,A3042,Swati Bhatia,Escalations & Warranty,GW-OTHER,1,270.00
+2026-01,A3043,Nikhil Gupta,Escalations & Warranty,DOA-REPL,1,1039.00
+2026-02,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,3499.00
+2026-02,A3003,Komal Singh,Chat Frontline,CANCEL,1,420.00
+2026-02,A3003,Komal Singh,Chat Frontline,DUP-PAYMENT,1,3499.00
+2026-02,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,3,5463.00
+2026-02,A3007,Abhishek Gupta,Chat Frontline,DOA-REPL,1,3499.00
+2026-02,A3007,Abhishek Gupta,Chat Frontline,GW-OTHER,3,6280.00
+2026-02,A3009,Sukhwinder Singh,Chat Frontline,CANCEL,1,585.00
+2026-02,A3010,Tenzin Mathew,Chat Frontline,CANCEL,1,420.00
+2026-02,A3010,Tenzin Mathew,Chat Frontline,DOA-REPL,1,3324.00
+2026-02,A3010,Tenzin Mathew,Chat Frontline,DUP-PAYMENT,1,3149.00
+2026-02,A3014,Anjali D'Souza,Chat Frontline,CANCEL,1,3499.00
+2026-02,A3016,Thomas Kumar,Email Frontline,CANCEL,1,1619.00
+2026-02,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,3149.00
+2026-02,A3017,Kabir Singh,Email Frontline,CANCEL,1,2124.00
+2026-02,A3017,Kabir Singh,Email Frontline,GW-OTHER,1,650.00
+2026-02,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,8498.00
+2026-02,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,4,8122.00
+2026-02,A3018,Krishna Bhatt,Email Frontline,PRICE-ADJ,1,6299.00
+2026-02,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,2799.00
+2026-02,A3021,Meera Mathew,Email Frontline,DOA-REPL,1,6499.00
+2026-02,A3021,Meera Mathew,Email Frontline,GW-OTHER,1,3499.00
+2026-02,A3022,Daniel Arora,Email Frontline,DOA-REPL,1,319.00
+2026-02,A3023,Ritika Gaikwad,Voice Frontline,CANCEL,1,3999.00
+2026-02,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,3,7197.00
+2026-02,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,332.00
+2026-02,A3027,Priya Agarwal,Logistics,GW-OTHER,2,14147.00
+2026-02,A3027,Priya Agarwal,Logistics,RETURN-QC-OK,2,5173.00
+2026-02,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,2599.00
+2026-02,A3028,Sameer Kapoor,Logistics,RETURN-QC-OK,1,1619.00
+2026-02,A3028,Sameer Kapoor,Logistics,WTY-BUYBACK,1,3324.00
+2026-02,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,306.00
+2026-02,A3029,Rajat Mukherjee,Logistics,GW-OTHER,1,319.00
+2026-02,A3029,Rajat Mukherjee,Logistics,LOST-TRANSIT,1,1799.00
+2026-02,A3029,Rajat Mukherjee,Logistics,RETURN-QC-OK,1,1799.00
+2026-02,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,2,5998.00
+2026-02,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,3,4223.00
+2026-02,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,1,4999.00
+2026-02,A3031,Zaid Desai,Logistics,GW-OTHER,2,5298.00
+2026-02,A3032,Sneha Bansal,Billing,DUP-PAYMENT,5,9342.00
+2026-02,A3032,Sneha Bansal,Billing,GW-OTHER,4,10047.00
+2026-02,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,3324.00
+2026-02,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,4,16441.00
+2026-02,A3033,Vikram Banerjee,Billing,GW-OTHER,2,4798.00
+2026-02,A3033,Vikram Banerjee,Billing,PRICE-ADJ,2,3273.00
+2026-02,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,2,5948.00
+2026-02,A3034,Tanvi Rathore,Billing,GW-OTHER,3,4004.00
+2026-02,A3034,Tanvi Rathore,Billing,PRICE-ADJ,2,1850.00
+2026-02,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,5,16114.00
+2026-02,A3035,Dev Kulkarni,Billing,GW-OTHER,6,16418.00
+2026-02,A3035,Dev Kulkarni,Billing,PRICE-ADJ,2,8397.00
+2026-02,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,7,16440.00
+2026-02,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,10,30103.00
+2026-02,A3037,Manish Iyer,Returns Desk,GW-OTHER,2,3419.00
+2026-02,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,7,22339.00
+2026-02,A3038,Ankit Dhillon,Returns Desk,DOA-REPL,1,5524.00
+2026-02,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,8,29623.00
+2026-02,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,8,9882.00
+2026-02,A3039,Reyansh Mishra,Escalations & Warranty,DOA-REPL,1,5099.00
+2026-02,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,1,1619.00
+2026-02,A3041,Mohammed Mehta,Escalations & Warranty,GW-OTHER,1,2499.00
+2026-02,A3042,Swati Bhatia,Escalations & Warranty,GW-OTHER,1,5949.00
+2026-03,A3001,Suresh Kaur,Chat Frontline,CANCEL,1,1274.00
+2026-03,A3001,Suresh Kaur,Chat Frontline,PRICE-ADJ,1,6999.00
+2026-03,A3002,Steven Ansari,Chat Frontline,DUP-PAYMENT,1,2848.00
+2026-03,A3002,Steven Ansari,Chat Frontline,RETURN-QC-OK,1,156.00
+2026-03,A3003,Komal Singh,Chat Frontline,CANCEL,2,2674.00
+2026-03,A3003,Komal Singh,Chat Frontline,DOA-REPL,1,1799.00
+2026-03,A3003,Komal Singh,Chat Frontline,DUP-PAYMENT,1,1234.00
+2026-03,A3003,Komal Singh,Chat Frontline,WTY-BUYBACK,1,3149.00
+2026-03,A3004,Geeta Dutta,Chat Frontline,GW-OTHER,1,3499.00
+2026-03,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,3,8097.00
+2026-03,A3006,Varun Bhatt,Chat Frontline,CANCEL,2,3333.00
+2026-03,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,2,5659.00
+2026-03,A3007,Abhishek Gupta,Chat Frontline,GW-OTHER,2,6199.00
+2026-03,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,2,5523.00
+2026-03,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,3,8774.00
+2026-03,A3011,Rohit Gill,Chat Frontline,DUP-PAYMENT,2,6123.00
+2026-03,A3013,Rohit Nair,Chat Frontline,GW-OTHER,2,6698.00
+2026-03,A3014,Anjali D'Souza,Chat Frontline,DOA-REPL,1,3058.00
+2026-03,A3014,Anjali D'Souza,Chat Frontline,GW-OTHER,2,8648.00
+2026-03,A3015,Sameer Jadhav,Chat Frontline,CANCEL,1,425.00
+2026-03,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,1,900.00
+2026-03,A3016,Thomas Kumar,Email Frontline,CANCEL,1,1299.00
+2026-03,A3016,Thomas Kumar,Email Frontline,DOA-REPL,3,6997.00
+2026-03,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,1799.00
+2026-03,A3016,Thomas Kumar,Email Frontline,RETURN-QC-OK,1,450.00
+2026-03,A3017,Kabir Singh,Email Frontline,WTY-BUYBACK,1,1299.00
+2026-03,A3018,Krishna Bhatt,Email Frontline,CANCEL,4,4402.00
+2026-03,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,650.00
+2026-03,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,1,3499.00
+2026-03,A3019,Kavya Agarwal,Email Frontline,DOA-REPL,1,1120.00
+2026-03,A3019,Kavya Agarwal,Email Frontline,GW-OTHER,1,1199.00
+2026-03,A3019,Kavya Agarwal,Email Frontline,RETURN-QC-OK,1,3149.00
+2026-03,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,104.00
+2026-03,A3021,Meera Mathew,Email Frontline,GW-OTHER,1,525.00
+2026-03,A3024,Amit Deshpande,Voice Frontline,DUP-PAYMENT,1,3324.00
+2026-03,A3024,Amit Deshpande,Voice Frontline,WTY-BUYBACK,1,1299.00
+2026-03,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,1,1799.00
+2026-03,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,1,3499.00
+2026-03,A3026,Aadhya Deshpande,Voice Frontline,LOST-TRANSIT,1,1234.00
+2026-03,A3027,Priya Agarwal,Logistics,GW-OTHER,1,2124.00
+2026-03,A3027,Priya Agarwal,Logistics,LOST-TRANSIT,1,2974.00
+2026-03,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,5998.00
+2026-03,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,3324.00
+2026-03,A3029,Rajat Mukherjee,Logistics,LOST-TRANSIT,1,5199.00
+2026-03,A3029,Rajat Mukherjee,Logistics,RETURN-QC-OK,1,6999.00
+2026-03,A3029,Rajat Mukherjee,Logistics,WTY-BUYBACK,1,1999.00
+2026-03,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,3,11147.00
+2026-03,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,6,18065.00
+2026-03,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,10247.00
+2026-03,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,1,2499.00
+2026-03,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,2,5498.00
+2026-03,A3031,Zaid Desai,Logistics,CANCEL,1,499.00
+2026-03,A3031,Zaid Desai,Logistics,DOA-REPL,2,5298.00
+2026-03,A3031,Zaid Desai,Logistics,DUP-PAYMENT,1,280.00
+2026-03,A3031,Zaid Desai,Logistics,GW-OTHER,2,2327.00
+2026-03,A3031,Zaid Desai,Logistics,LOST-TRANSIT,1,6499.00
+2026-03,A3031,Zaid Desai,Logistics,RETURN-QC-OK,1,3324.00
+2026-03,A3032,Sneha Bansal,Billing,CANCEL,1,360.00
+2026-03,A3032,Sneha Bansal,Billing,GW-OTHER,2,3844.00
+2026-03,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,2,6949.00
+2026-03,A3033,Vikram Banerjee,Billing,GW-OTHER,4,8814.00
+2026-03,A3033,Vikram Banerjee,Billing,RETURN-QC-OK,1,3324.00
+2026-03,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,3,7737.00
+2026-03,A3034,Tanvi Rathore,Billing,GW-OTHER,2,5298.00
+2026-03,A3035,Dev Kulkarni,Billing,CANCEL,2,3868.00
+2026-03,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,8,18865.00
+2026-03,A3035,Dev Kulkarni,Billing,GW-OTHER,8,20601.00
+2026-03,A3035,Dev Kulkarni,Billing,PRICE-ADJ,1,8498.00
+2026-03,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,1,332.00
+2026-03,A3036,Ritika D'Souza,Returns Desk,DUP-PAYMENT,1,2249.00
+2026-03,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,2,3060.00
+2026-03,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,7,13166.00
+2026-03,A3037,Manish Iyer,Returns Desk,GW-OTHER,4,15671.00
+2026-03,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,8,25372.00
+2026-03,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,4,6784.00
+2026-03,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,9,28469.00
+2026-03,A3039,Reyansh Mishra,Escalations & Warranty,DOA-REPL,2,6798.00
+2026-03,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,1,2499.00
+2026-03,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,6998.00
+2026-03,A3040,Thomas Jadhav,Escalations & Warranty,GW-OTHER,1,3324.00
+2026-03,A3040,Thomas Jadhav,Escalations & Warranty,WTY-BUYBACK,1,1529.00
+2026-03,A3041,Mohammed Mehta,Escalations & Warranty,GW-OTHER,1,12348.00
+2026-04,A3001,Suresh Kaur,Chat Frontline,GW-OTHER,1,6298.00
+2026-04,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,2799.00
+2026-04,A3003,Komal Singh,Chat Frontline,GW-OTHER,2,6648.00
+2026-04,A3004,Geeta Dutta,Chat Frontline,CANCEL,1,1529.00
+2026-04,A3006,Varun Bhatt,Chat Frontline,DOA-REPL,1,2124.00
+2026-04,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,340.00
+2026-04,A3007,Abhishek Gupta,Chat Frontline,CANCEL,2,3274.00
+2026-04,A3007,Abhishek Gupta,Chat Frontline,GW-OTHER,2,7398.00
+2026-04,A3008,Meera Malhotra,Chat Frontline,GW-OTHER,1,3149.00
+2026-04,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,1,2499.00
+2026-04,A3011,Rohit Gill,Chat Frontline,CANCEL,1,6999.00
+2026-04,A3011,Rohit Gill,Chat Frontline,GW-OTHER,1,2799.00
+2026-04,A3012,Lakshmi Srivastava,Chat Frontline,CANCEL,1,400.00
+2026-04,A3012,Lakshmi Srivastava,Chat Frontline,WTY-BUYBACK,1,1250.00
+2026-04,A3013,Rohit Nair,Chat Frontline,WTY-BUYBACK,1,2499.00
+2026-04,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,2,4923.00
+2026-04,A3015,Sameer Jadhav,Chat Frontline,PRICE-ADJ,1,3324.00
+2026-04,A3017,Kabir Singh,Email Frontline,RETURN-QC-OK,1,1799.00
+2026-04,A3017,Kabir Singh,Email Frontline,WTY-BUYBACK,1,3499.00
+2026-04,A3018,Krishna Bhatt,Email Frontline,CANCEL,1,3999.00
+2026-04,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,2374.00
+2026-04,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,2,7698.00
+2026-04,A3018,Krishna Bhatt,Email Frontline,PRICE-ADJ,1,6648.00
+2026-04,A3020,Aadhya Singh,Email Frontline,DUP-PAYMENT,1,80.00
+2026-04,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,144.00
+2026-04,A3021,Meera Mathew,Email Frontline,CANCEL,1,1274.00
+2026-04,A3021,Meera Mathew,Email Frontline,GW-OTHER,1,2799.00
+2026-04,A3023,Ritika Gaikwad,Voice Frontline,CANCEL,1,3149.00
+2026-04,A3025,Komal Malhotra,Voice Frontline,GW-OTHER,1,3149.00
+2026-04,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,2799.00
+2026-04,A3026,Aadhya Deshpande,Voice Frontline,DUP-PAYMENT,1,3499.00
+2026-04,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,3,4198.00
+2026-04,A3027,Priya Agarwal,Logistics,DOA-REPL,2,9098.00
+2026-04,A3027,Priya Agarwal,Logistics,GW-OTHER,3,6202.00
+2026-04,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,6999.00
+2026-04,A3028,Sameer Kapoor,Logistics,LOST-TRANSIT,1,1999.00
+2026-04,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,1299.00
+2026-04,A3029,Rajat Mukherjee,Logistics,RETURN-QC-OK,1,630.00
+2026-04,A3030,Aishwarya Trivedi,Logistics,CANCEL,2,10148.00
+2026-04,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,1,1799.00
+2026-04,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,3,10497.00
+2026-04,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,3549.00
+2026-04,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,2,5339.00
+2026-04,A3031,Zaid Desai,Logistics,DOA-REPL,1,1999.00
+2026-04,A3031,Zaid Desai,Logistics,GW-OTHER,2,8249.00
+2026-04,A3031,Zaid Desai,Logistics,RETURN-QC-OK,1,180.00
+2026-04,A3032,Sneha Bansal,Billing,CANCEL,1,2799.00
+2026-04,A3032,Sneha Bansal,Billing,DOA-REPL,1,2374.00
+2026-04,A3032,Sneha Bansal,Billing,DUP-PAYMENT,3,6698.00
+2026-04,A3032,Sneha Bansal,Billing,GW-OTHER,4,9594.00
+2026-04,A3032,Sneha Bansal,Billing,RETURN-QC-OK,1,1999.00
+2026-04,A3033,Vikram Banerjee,Billing,GW-OTHER,3,12797.00
+2026-04,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,499.00
+2026-04,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,4,7641.00
+2026-04,A3034,Tanvi Rathore,Billing,GW-OTHER,4,15047.00
+2026-04,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,2,1709.00
+2026-04,A3035,Dev Kulkarni,Billing,GW-OTHER,7,13798.00
+2026-04,A3035,Dev Kulkarni,Billing,PRICE-ADJ,2,2099.00
+2026-04,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,1,1234.00
+2026-04,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,8,25754.00
+2026-04,A3036,Ritika D'Souza,Returns Desk,LOST-TRANSIT,1,3499.00
+2026-04,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,13,27604.00
+2026-04,A3036,Ritika D'Souza,Returns Desk,WTY-BUYBACK,1,6174.00
+2026-04,A3037,Manish Iyer,Returns Desk,DOA-REPL,1,200.00
+2026-04,A3037,Manish Iyer,Returns Desk,GW-OTHER,7,17710.00
+2026-04,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,8,23490.00
+2026-04,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,4,16596.00
+2026-04,A3038,Ankit Dhillon,Returns Desk,PRICE-ADJ,1,3499.00
+2026-04,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,8,17832.00
+2026-04,A3039,Reyansh Mishra,Escalations & Warranty,DOA-REPL,2,3174.00
+2026-04,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,2799.00
+2026-04,A3040,Thomas Jadhav,Escalations & Warranty,DOA-REPL,1,1299.00
+2026-04,A3041,Mohammed Mehta,Escalations & Warranty,GW-OTHER,1,1000.00
+2026-05,A3002,Steven Ansari,Chat Frontline,CANCEL,1,3398.00
+2026-05,A3002,Steven Ansari,Chat Frontline,DOA-REPL,1,162.00
+2026-05,A3002,Steven Ansari,Chat Frontline,GW-OTHER,2,2994.00
+2026-05,A3003,Komal Singh,Chat Frontline,RETURN-QC-OK,1,2124.00
+2026-05,A3004,Geeta Dutta,Chat Frontline,GW-OTHER,2,4849.00
+2026-05,A3005,Payal Bhatia,Chat Frontline,CANCEL,1,6499.00
+2026-05,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,1,2974.00
+2026-05,A3006,Varun Bhatt,Chat Frontline,CANCEL,2,4519.00
+2026-05,A3006,Varun Bhatt,Chat Frontline,DUP-PAYMENT,1,552.00
+2026-05,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,1,1599.00
+2026-05,A3007,Abhishek Gupta,Chat Frontline,WTY-BUYBACK,1,5524.00
+2026-05,A3008,Meera Malhotra,Chat Frontline,GW-OTHER,1,7998.00
+2026-05,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,1,6999.00
+2026-05,A3010,Tenzin Mathew,Chat Frontline,CANCEL,2,9973.00
+2026-05,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,1,3499.00
+2026-05,A3011,Rohit Gill,Chat Frontline,DOA-REPL,1,3324.00
+2026-05,A3011,Rohit Gill,Chat Frontline,GW-OTHER,1,5524.00
+2026-05,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,6499.00
+2026-05,A3013,Rohit Nair,Chat Frontline,GW-OTHER,1,4499.00
+2026-05,A3014,Anjali D'Souza,Chat Frontline,WTY-BUYBACK,1,3499.00
+2026-05,A3015,Sameer Jadhav,Chat Frontline,GW-OTHER,1,5199.00
+2026-05,A3015,Sameer Jadhav,Chat Frontline,PRICE-ADJ,1,4999.00
+2026-05,A3016,Thomas Kumar,Email Frontline,DOA-REPL,1,2974.00
+2026-05,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,6998.00
+2026-05,A3017,Kabir Singh,Email Frontline,GW-OTHER,1,2124.00
+2026-05,A3017,Kabir Singh,Email Frontline,PRICE-ADJ,1,2124.00
+2026-05,A3018,Krishna Bhatt,Email Frontline,DOA-REPL,1,3499.00
+2026-05,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,3,3426.00
+2026-05,A3019,Kavya Agarwal,Email Frontline,GW-OTHER,1,2499.00
+2026-05,A3020,Aadhya Singh,Email Frontline,GW-OTHER,1,1400.00
+2026-05,A3020,Aadhya Singh,Email Frontline,RETURN-QC-OK,1,2800.00
+2026-05,A3023,Ritika Gaikwad,Voice Frontline,CANCEL,1,1439.00
+2026-05,A3024,Amit Deshpande,Voice Frontline,WTY-BUYBACK,1,3324.00
+2026-05,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,6999.00
+2026-05,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,1,3499.00
+2026-05,A3026,Aadhya Deshpande,Voice Frontline,WTY-BUYBACK,1,6649.00
+2026-05,A3027,Priya Agarwal,Logistics,PRICE-ADJ,1,3499.00
+2026-05,A3027,Priya Agarwal,Logistics,RETURN-QC-OK,1,2499.00
+2026-05,A3027,Priya Agarwal,Logistics,WTY-BUYBACK,1,5199.00
+2026-05,A3028,Sameer Kapoor,Logistics,GW-OTHER,4,5718.00
+2026-05,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,3,9622.00
+2026-05,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,5,12115.00
+2026-05,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,13044.00
+2026-05,A3030,Aishwarya Trivedi,Logistics,RETURN-QC-OK,3,10603.00
+2026-05,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,1,3499.00
+2026-05,A3031,Zaid Desai,Logistics,GW-OTHER,1,6174.00
+2026-05,A3032,Sneha Bansal,Billing,DUP-PAYMENT,3,2748.00
+2026-05,A3032,Sneha Bansal,Billing,GW-OTHER,2,6648.00
+2026-05,A3032,Sneha Bansal,Billing,RETURN-QC-OK,2,7594.00
+2026-05,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,2,3798.00
+2026-05,A3033,Vikram Banerjee,Billing,GW-OTHER,2,3849.00
+2026-05,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,5199.00
+2026-05,A3034,Tanvi Rathore,Billing,DUP-PAYMENT,5,5242.00
+2026-05,A3034,Tanvi Rathore,Billing,GW-OTHER,5,12019.00
+2026-05,A3035,Dev Kulkarni,Billing,CANCEL,1,1400.00
+2026-05,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,2,6749.00
+2026-05,A3035,Dev Kulkarni,Billing,GW-OTHER,5,11925.00
+2026-05,A3035,Dev Kulkarni,Billing,PRICE-ADJ,1,5949.00
+2026-05,A3035,Dev Kulkarni,Billing,RETURN-QC-OK,3,4658.00
+2026-05,A3036,Ritika D'Souza,Returns Desk,DOA-REPL,1,3499.00
+2026-05,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,13,33237.00
+2026-05,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,9,18877.00
+2026-05,A3037,Manish Iyer,Returns Desk,DOA-REPL,1,185.00
+2026-05,A3037,Manish Iyer,Returns Desk,GW-OTHER,4,8902.00
+2026-05,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,11,25696.00
+2026-05,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,3,7872.00
+2026-05,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,2,6998.00
+2026-05,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,3,10746.00
+2026-05,A3039,Reyansh Mishra,Escalations & Warranty,WTY-BUYBACK,1,4749.00
+2026-05,A3040,Thomas Jadhav,Escalations & Warranty,GW-OTHER,1,2499.00
+2026-05,A3043,Nikhil Gupta,Escalations & Warranty,GW-OTHER,1,1169.00
+2026-05,A3044,Arjun Kumar,Escalations & Warranty,DOA-REPL,1,5598.00
+2026-06,A3001,Suresh Kaur,Chat Frontline,CANCEL,1,6174.00
+2026-06,A3001,Suresh Kaur,Chat Frontline,DUP-PAYMENT,1,1499.00
+2026-06,A3001,Suresh Kaur,Chat Frontline,GW-OTHER,3,7642.00
+2026-06,A3002,Steven Ansari,Chat Frontline,CANCEL,1,3149.00
+2026-06,A3002,Steven Ansari,Chat Frontline,GW-OTHER,1,6174.00
+2026-06,A3003,Komal Singh,Chat Frontline,CANCEL,3,3728.00
+2026-06,A3003,Komal Singh,Chat Frontline,GW-OTHER,3,3827.00
+2026-06,A3004,Geeta Dutta,Chat Frontline,CANCEL,1,700.00
+2026-06,A3005,Payal Bhatia,Chat Frontline,CANCEL,1,585.00
+2026-06,A3005,Payal Bhatia,Chat Frontline,DOA-REPL,1,2799.00
+2026-06,A3005,Payal Bhatia,Chat Frontline,GW-OTHER,1,3499.00
+2026-06,A3005,Payal Bhatia,Chat Frontline,LOST-TRANSIT,1,4999.00
+2026-06,A3006,Varun Bhatt,Chat Frontline,CANCEL,1,270.00
+2026-06,A3006,Varun Bhatt,Chat Frontline,GW-OTHER,3,7157.00
+2026-06,A3008,Meera Malhotra,Chat Frontline,CANCEL,1,3499.00
+2026-06,A3008,Meera Malhotra,Chat Frontline,GW-OTHER,2,4948.00
+2026-06,A3009,Sukhwinder Singh,Chat Frontline,DOA-REPL,1,6499.00
+2026-06,A3009,Sukhwinder Singh,Chat Frontline,DUP-PAYMENT,1,256.00
+2026-06,A3009,Sukhwinder Singh,Chat Frontline,GW-OTHER,2,4973.00
+2026-06,A3010,Tenzin Mathew,Chat Frontline,DOA-REPL,1,6999.00
+2026-06,A3010,Tenzin Mathew,Chat Frontline,GW-OTHER,1,1529.00
+2026-06,A3011,Rohit Gill,Chat Frontline,GW-OTHER,1,2974.00
+2026-06,A3012,Lakshmi Srivastava,Chat Frontline,CANCEL,1,3149.00
+2026-06,A3012,Lakshmi Srivastava,Chat Frontline,GW-OTHER,1,5199.00
+2026-06,A3012,Lakshmi Srivastava,Chat Frontline,WTY-BUYBACK,1,2249.00
+2026-06,A3013,Rohit Nair,Chat Frontline,DOA-REPL,1,3324.00
+2026-06,A3013,Rohit Nair,Chat Frontline,DUP-PAYMENT,1,4999.00
+2026-06,A3015,Sameer Jadhav,Chat Frontline,CANCEL,1,3324.00
+2026-06,A3015,Sameer Jadhav,Chat Frontline,DOA-REPL,2,6473.00
+2026-06,A3016,Thomas Kumar,Email Frontline,GW-OTHER,1,1000.00
+2026-06,A3016,Thomas Kumar,Email Frontline,PRICE-ADJ,1,250.00
+2026-06,A3017,Kabir Singh,Email Frontline,CANCEL,2,2338.00
+2026-06,A3018,Krishna Bhatt,Email Frontline,CANCEL,2,5873.00
+2026-06,A3018,Krishna Bhatt,Email Frontline,DUP-PAYMENT,1,4999.00
+2026-06,A3018,Krishna Bhatt,Email Frontline,GW-OTHER,2,5623.00
+2026-06,A3018,Krishna Bhatt,Email Frontline,WTY-BUYBACK,1,2799.00
+2026-06,A3021,Meera Mathew,Email Frontline,CANCEL,1,6999.00
+2026-06,A3021,Meera Mathew,Email Frontline,DOA-REPL,1,3149.00
+2026-06,A3021,Meera Mathew,Email Frontline,DUP-PAYMENT,1,130.00
+2026-06,A3022,Daniel Arora,Email Frontline,CANCEL,1,297.00
+2026-06,A3022,Daniel Arora,Email Frontline,GW-OTHER,1,1299.00
+2026-06,A3024,Amit Deshpande,Voice Frontline,DOA-REPL,1,5524.00
+2026-06,A3024,Amit Deshpande,Voice Frontline,GW-OTHER,2,5598.00
+2026-06,A3025,Komal Malhotra,Voice Frontline,GW-OTHER,1,332.00
+2026-06,A3026,Aadhya Deshpande,Voice Frontline,CANCEL,1,2974.00
+2026-06,A3026,Aadhya Deshpande,Voice Frontline,GW-OTHER,2,5023.00
+2026-06,A3027,Priya Agarwal,Logistics,GW-OTHER,2,9448.00
+2026-06,A3028,Sameer Kapoor,Logistics,DOA-REPL,1,6174.00
+2026-06,A3028,Sameer Kapoor,Logistics,GW-OTHER,2,8038.00
+2026-06,A3028,Sameer Kapoor,Logistics,LOST-TRANSIT,1,6999.00
+2026-06,A3029,Rajat Mukherjee,Logistics,CANCEL,2,5998.00
+2026-06,A3029,Rajat Mukherjee,Logistics,DOA-REPL,1,6999.00
+2026-06,A3029,Rajat Mukherjee,Logistics,GW-OTHER,1,1499.00
+2026-06,A3030,Aishwarya Trivedi,Logistics,CANCEL,1,3324.00
+2026-06,A3030,Aishwarya Trivedi,Logistics,DOA-REPL,3,3286.00
+2026-06,A3030,Aishwarya Trivedi,Logistics,GW-OTHER,6,12667.00
+2026-06,A3030,Aishwarya Trivedi,Logistics,LOST-TRANSIT,2,3118.00
+2026-06,A3030,Aishwarya Trivedi,Logistics,WTY-BUYBACK,2,3473.00
+2026-06,A3031,Zaid Desai,Logistics,DOA-REPL,2,2644.00
+2026-06,A3031,Zaid Desai,Logistics,GW-OTHER,2,4199.00
+2026-06,A3032,Sneha Bansal,Billing,CANCEL,1,3324.00
+2026-06,A3032,Sneha Bansal,Billing,DOA-REPL,1,332.00
+2026-06,A3032,Sneha Bansal,Billing,DUP-PAYMENT,3,1640.00
+2026-06,A3032,Sneha Bansal,Billing,PRICE-ADJ,2,4538.00
+2026-06,A3032,Sneha Bansal,Billing,RETURN-QC-OK,2,7948.00
+2026-06,A3033,Vikram Banerjee,Billing,CANCEL,1,1999.00
+2026-06,A3033,Vikram Banerjee,Billing,DUP-PAYMENT,1,2799.00
+2026-06,A3033,Vikram Banerjee,Billing,GW-OTHER,1,900.00
+2026-06,A3033,Vikram Banerjee,Billing,PRICE-ADJ,1,2499.00
+2026-06,A3033,Vikram Banerjee,Billing,RETURN-QC-OK,2,7424.00
+2026-06,A3034,Tanvi Rathore,Billing,CANCEL,1,3149.00
+2026-06,A3034,Tanvi Rathore,Billing,GW-OTHER,5,16680.00
+2026-06,A3034,Tanvi Rathore,Billing,PRICE-ADJ,1,104.00
+2026-06,A3035,Dev Kulkarni,Billing,DUP-PAYMENT,9,23301.00
+2026-06,A3035,Dev Kulkarni,Billing,GW-OTHER,5,8273.00
+2026-06,A3035,Dev Kulkarni,Billing,PRICE-ADJ,1,700.00
+2026-06,A3036,Ritika D'Souza,Returns Desk,GW-OTHER,6,17398.00
+2026-06,A3036,Ritika D'Souza,Returns Desk,RETURN-QC-OK,8,23197.00
+2026-06,A3037,Manish Iyer,Returns Desk,DOA-REPL,1,2499.00
+2026-06,A3037,Manish Iyer,Returns Desk,GW-OTHER,7,21685.00
+2026-06,A3037,Manish Iyer,Returns Desk,RETURN-QC-OK,7,16159.00
+2026-06,A3038,Ankit Dhillon,Returns Desk,GW-OTHER,3,4448.00
+2026-06,A3038,Ankit Dhillon,Returns Desk,RETURN-QC-OK,6,14151.00
+2026-06,A3039,Reyansh Mishra,Escalations & Warranty,GW-OTHER,3,16497.00
+2026-06,A3041,Mohammed Mehta,Escalations & Warranty,WTY-BUYBACK,1,2799.00
+2026-06,A3044,Arjun Kumar,Escalations & Warranty,GW-OTHER,1,1709.00

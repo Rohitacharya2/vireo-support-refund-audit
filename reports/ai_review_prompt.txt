@@ -1,0 +1,46 @@
+You are reviewing a finance support report. Use only the aggregate facts below.
+Do not infer individual agent misconduct or claim causation. Separate observed facts,
+hypotheses, and recommended checks. The email says GW-OTHER is first in the dropdown;
+the policy says Returns Desk handles most refunds, but agent_id identifies the resolver.
+Mention both as interpretation limits, along with the system migration on 14 Sep 2025,
+the paise-to-rupee correction for legacy_fd rows, and the deduplication rule.
+Do not invent facts. Keep the response to five short bullets and identify any
+question that requires source-system verification. No customer message text or names
+are included in this prompt.
+
+Reconciled report:
+- Unique tickets: 11600
+- Refund tickets: 2340
+- Refund value INR: 6709932.00
+- Paired ticket IDs removed as migration duplicates: 638
+- Paired IDs with a currency-normalized amount mismatch: 0
+
+Monthly totals:
+2025-01: tickets=302; refunds=58; amount_inr=141048.00
+2025-02: tickets=324; refunds=63; amount_inr=177938.00
+2025-03: tickets=427; refunds=91; amount_inr=290597.00
+2025-04: tickets=452; refunds=79; amount_inr=250089.00
+2025-05: tickets=489; refunds=86; amount_inr=217464.00
+2025-06: tickets=447; refunds=88; amount_inr=259869.00
+2025-07: tickets=522; refunds=119; amount_inr=356986.00
+2025-08: tickets=590; refunds=125; amount_inr=367821.00
+2025-09: tickets=731; refunds=161; amount_inr=482284.00
+2025-10: tickets=870; refunds=185; amount_inr=575637.00
+2025-11: tickets=948; refunds=186; amount_inr=575984.00
+2025-12: tickets=860; refunds=171; amount_inr=475954.00
+2026-01: tickets=762; refunds=153; amount_inr=449868.00
+2026-02: tickets=765; refunds=139; amount_inr=372797.00
+2026-03: tickets=834; refunds=163; amount_inr=435773.00
+2026-04: tickets=720; refunds=154; amount_inr=402265.00
+2026-05: tickets=812; refunds=149; amount_inr=426737.00
+2026-06: tickets=745; refunds=170; amount_inr=450821.00
+
+Refund reasons (all months):
+CANCEL: count=222; amount_inr=612950.00
+DOA-REPL: count=147; amount_inr=471190.00
+DUP-PAYMENT: count=321; amount_inr=884586.00
+GW-OTHER: count=991; amount_inr=2907036.00
+LOST-TRANSIT: count=47; amount_inr=156557.00
+PRICE-ADJ: count=71; amount_inr=207073.00
+RETURN-QC-OK: count=452; amount_inr=1181386.00
+WTY-BUYBACK: count=89; amount_inr=289154.00
